@@ -12,7 +12,8 @@
     "relationship_stage": {"enum": ["first_meet", "close", "dating", "married"]},
     "characters": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}},
     "tags": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}},
-    "length": {"const": "short"},
+    "length": {"const": "medium"},
+    "word_count": {"type": "integer", "minimum": 2000, "maximum": 4000},
     "created_at": {"type": "string", "format": "date"},
     "summary": {"type": "string", "maxLength": 160},
     "generation_seed": {"type": "object", "required": ["scene", "emotion", "conflict"], "properties": {"scene": {"type": "string"}, "emotion": {"type": "string"}, "conflict": {"type": "string"}}, "additionalProperties": false}

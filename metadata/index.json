@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "generated_at": "2026-08-12T17:19:08Z",
+  "generated_at": "2026-08-12T17:30:57Z",
   "dates": [
     {
       "date": "2026-08-13",
-      "count": 1,
+      "count": 40,
       "stories": [
         {
           "id": "20260813001",
-          "title": "雨声停在门外",
+          "title": "雨声停在门外（秦彻）",
           "fandom": "恋与深空",
           "character": "qinche",
           "world": "canon",
-          "relationship_stage": "close",
+          "relationship_stage": "first_meet",
           "characters": [
             "秦彻",
             "你"
@@ -21,15 +21,1030 @@
             "治愈",
             "雨夜"
           ],
-          "length": "short",
+          "length": "medium",
+          "word_count": "2493",
           "created_at": "2026-08-13",
           "generation_seed": {
             "scene": "雨夜门厅",
             "emotion": "克制的关心",
-            "conflict": "你想独自淋雨离开"
+            "conflict": "你想独自承担"
           },
-          "summary": "一把留在门口的伞，替两个人把雨夜说完。",
+          "summary": "在雨夜门厅，秦彻陪你面对你想独自承担。",
           "path": "content/stories/2026-08-13/001.md"
+        },
+        {
+          "id": "20260813002",
+          "title": "天台上的第二杯热饮（夏以昼）",
+          "fandom": "恋与深空",
+          "character": "xiyi",
+          "world": "if",
+          "relationship_stage": "close",
+          "characters": [
+            "夏以昼",
+            "你"
+          ],
+          "tags": [
+            "天台",
+            "陪伴"
+          ],
+          "length": "medium",
+          "word_count": "2505",
+          "created_at": "2026-08-13",
+          "generation_seed": {
+            "scene": "天台",
+            "emotion": "带笑的试探",
+            "conflict": "约定被临时打断"
+          },
+          "summary": "在天台，夏以昼陪你面对约定被临时打断。",
+          "path": "content/stories/2026-08-13/002.md"
+        },
+        {
+          "id": "20260813003",
+          "title": "返程航班延误以后（秦彻）",
+          "fandom": "恋与深空",
+          "character": "qinche",
+          "world": "modern",
+          "relationship_stage": "dating",
+          "characters": [
+            "秦彻",
+            "你"
+          ],
+          "tags": [
+            "重逢",
+            "机场"
+          ],
+          "length": "medium",
+          "word_count": "2497",
+          "created_at": "2026-08-13",
+          "generation_seed": {
+            "scene": "返程航站楼",
+            "emotion": "沉默守护",
+            "conflict": "误会让你沉默"
+          },
+          "summary": "在返程航站楼，秦彻陪你面对误会让你沉默。",
+          "path": "content/stories/2026-08-13/003.md"
+        },
+        {
+          "id": "20260813004",
+          "title": "训练场最后一盏灯（夏以昼）",
+          "fandom": "恋与深空",
+          "character": "xiyi",
+          "world": "canon",
+          "relationship_stage": "married",
+          "characters": [
+            "夏以昼",
+            "你"
+          ],
+          "tags": [
+            "训练",
+            "守护"
+          ],
+          "length": "medium",
+          "word_count": "2521",
+          "created_at": "2026-08-13",
+          "generation_seed": {
+            "scene": "训练场边",
+            "emotion": "久别后的温柔",
+            "conflict": "旧伤突然发作"
+          },
+          "summary": "在训练场边，夏以昼陪你面对旧伤突然发作。",
+          "path": "content/stories/2026-08-13/004.md"
+        },
+        {
+          "id": "20260813005",
+          "title": "厨房里没有说出口的话（秦彻）",
+          "fandom": "恋与深空",
+          "character": "qinche",
+          "world": "if",
+          "relationship_stage": "first_meet",
+          "characters": [
+            "秦彻",
+            "你"
+          ],
+          "tags": [
+            "日常",
+            "厨房"
+          ],
+          "length": "medium",
+          "word_count": "2496",
+          "created_at": "2026-08-13",
+          "generation_seed": {
+            "scene": "厨房清晨",
+            "emotion": "熟稔的包容",
+            "conflict": "任务改变了返程时间"
+          },
+          "summary": "在厨房清晨，秦彻陪你面对任务改变了返程时间。",
+          "path": "content/stories/2026-08-13/005.md"
+        },
+        {
+          "id": "20260813006",
+          "title": "夜行车的副驾驶（夏以昼）",
+          "fandom": "恋与深空",
+          "character": "xiyi",
+          "world": "modern",
+          "relationship_stage": "close",
+          "characters": [
+            "夏以昼",
+            "你"
+          ],
+          "tags": [
+            "初遇",
+            "夜行"
+          ],
+          "length": "medium",
+          "word_count": "2521",
+          "created_at": "2026-08-13",
+          "generation_seed": {
+            "scene": "夜行车内",
+            "emotion": "克制的关心",
+            "conflict": "你不愿说出真实心意"
+          },
+          "summary": "在夜行车内，夏以昼陪你面对你不愿说出真实心意。",
+          "path": "content/stories/2026-08-13/006.md"
+        },
+        {
+          "id": "20260813007",
+          "title": "雪后阳台的围巾（秦彻）",
+          "fandom": "恋与深空",
+          "character": "qinche",
+          "world": "canon",
+          "relationship_stage": "dating",
+          "characters": [
+            "秦彻",
+            "你"
+          ],
+          "tags": [
+            "冬日",
+            "治愈"
+          ],
+          "length": "medium",
+          "word_count": "2493",
+          "created_at": "2026-08-13",
+          "generation_seed": {
+            "scene": "雪后阳台",
+            "emotion": "带笑的试探",
+            "conflict": "你想独自承担"
+          },
+          "summary": "在雪后阳台，秦彻陪你面对你想独自承担。",
+          "path": "content/stories/2026-08-13/007.md"
+        },
+        {
+          "id": "20260813008",
+          "title": "便利店的薄荷糖（夏以昼）",
+          "fandom": "恋与深空",
+          "character": "xiyi",
+          "world": "if",
+          "relationship_stage": "married",
+          "characters": [
+            "夏以昼",
+            "你"
+          ],
+          "tags": [
+            "便利店",
+            "暧昧"
+          ],
+          "length": "medium",
+          "word_count": "2523",
+          "created_at": "2026-08-13",
+          "generation_seed": {
+            "scene": "深夜便利店",
+            "emotion": "沉默守护",
+            "conflict": "约定被临时打断"
+          },
+          "summary": "在深夜便利店，夏以昼陪你面对约定被临时打断。",
+          "path": "content/stories/2026-08-13/008.md"
+        },
+        {
+          "id": "20260813009",
+          "title": "旧街拐角的伞（秦彻）",
+          "fandom": "恋与深空",
+          "character": "qinche",
+          "world": "modern",
+          "relationship_stage": "first_meet",
+          "characters": [
+            "秦彻",
+            "你"
+          ],
+          "tags": [
+            "雨天",
+            "初遇"
+          ],
+          "length": "medium",
+          "word_count": "2496",
+          "created_at": "2026-08-13",
+          "generation_seed": {
+            "scene": "旧街拐角",
+            "emotion": "久别后的温柔",
+            "conflict": "误会让你沉默"
+          },
+          "summary": "在旧街拐角，秦彻陪你面对误会让你沉默。",
+          "path": "content/stories/2026-08-13/009.md"
+        },
+        {
+          "id": "20260813010",
+          "title": "任务归来的花（夏以昼）",
+          "fandom": "恋与深空",
+          "character": "xiyi",
+          "world": "canon",
+          "relationship_stage": "close",
+          "characters": [
+            "夏以昼",
+            "你"
+          ],
+          "tags": [
+            "任务后",
+            "礼物"
+          ],
+          "length": "medium",
+          "word_count": "2518",
+          "created_at": "2026-08-13",
+          "generation_seed": {
+            "scene": "任务归来",
+            "emotion": "熟稔的包容",
+            "conflict": "旧伤突然发作"
+          },
+          "summary": "在任务归来，夏以昼陪你面对旧伤突然发作。",
+          "path": "content/stories/2026-08-13/010.md"
+        },
+        {
+          "id": "20260813011",
+          "title": "雨声停在门外（秦彻）",
+          "fandom": "恋与深空",
+          "character": "qinche",
+          "world": "if",
+          "relationship_stage": "dating",
+          "characters": [
+            "秦彻",
+            "你"
+          ],
+          "tags": [
+            "治愈",
+            "雨夜"
+          ],
+          "length": "medium",
+          "word_count": "2496",
+          "created_at": "2026-08-13",
+          "generation_seed": {
+            "scene": "雨夜门厅",
+            "emotion": "克制的关心",
+            "conflict": "任务改变了返程时间"
+          },
+          "summary": "在雨夜门厅，秦彻陪你面对任务改变了返程时间。",
+          "path": "content/stories/2026-08-13/011.md"
+        },
+        {
+          "id": "20260813012",
+          "title": "天台上的第二杯热饮（夏以昼）",
+          "fandom": "恋与深空",
+          "character": "xiyi",
+          "world": "modern",
+          "relationship_stage": "married",
+          "characters": [
+            "夏以昼",
+            "你"
+          ],
+          "tags": [
+            "天台",
+            "陪伴"
+          ],
+          "length": "medium",
+          "word_count": "2507",
+          "created_at": "2026-08-13",
+          "generation_seed": {
+            "scene": "天台",
+            "emotion": "带笑的试探",
+            "conflict": "你不愿说出真实心意"
+          },
+          "summary": "在天台，夏以昼陪你面对你不愿说出真实心意。",
+          "path": "content/stories/2026-08-13/012.md"
+        },
+        {
+          "id": "20260813013",
+          "title": "返程航班延误以后（秦彻）",
+          "fandom": "恋与深空",
+          "character": "qinche",
+          "world": "canon",
+          "relationship_stage": "first_meet",
+          "characters": [
+            "秦彻",
+            "你"
+          ],
+          "tags": [
+            "重逢",
+            "机场"
+          ],
+          "length": "medium",
+          "word_count": "2497",
+          "created_at": "2026-08-13",
+          "generation_seed": {
+            "scene": "返程航站楼",
+            "emotion": "沉默守护",
+            "conflict": "你想独自承担"
+          },
+          "summary": "在返程航站楼，秦彻陪你面对你想独自承担。",
+          "path": "content/stories/2026-08-13/013.md"
+        },
+        {
+          "id": "20260813014",
+          "title": "训练场最后一盏灯（夏以昼）",
+          "fandom": "恋与深空",
+          "character": "xiyi",
+          "world": "if",
+          "relationship_stage": "close",
+          "characters": [
+            "夏以昼",
+            "你"
+          ],
+          "tags": [
+            "训练",
+            "守护"
+          ],
+          "length": "medium",
+          "word_count": "2522",
+          "created_at": "2026-08-13",
+          "generation_seed": {
+            "scene": "训练场边",
+            "emotion": "久别后的温柔",
+            "conflict": "约定被临时打断"
+          },
+          "summary": "在训练场边，夏以昼陪你面对约定被临时打断。",
+          "path": "content/stories/2026-08-13/014.md"
+        },
+        {
+          "id": "20260813015",
+          "title": "厨房里没有说出口的话（秦彻）",
+          "fandom": "恋与深空",
+          "character": "qinche",
+          "world": "modern",
+          "relationship_stage": "dating",
+          "characters": [
+            "秦彻",
+            "你"
+          ],
+          "tags": [
+            "日常",
+            "厨房"
+          ],
+          "length": "medium",
+          "word_count": "2493",
+          "created_at": "2026-08-13",
+          "generation_seed": {
+            "scene": "厨房清晨",
+            "emotion": "熟稔的包容",
+            "conflict": "误会让你沉默"
+          },
+          "summary": "在厨房清晨，秦彻陪你面对误会让你沉默。",
+          "path": "content/stories/2026-08-13/015.md"
+        },
+        {
+          "id": "20260813016",
+          "title": "夜行车的副驾驶（夏以昼）",
+          "fandom": "恋与深空",
+          "character": "xiyi",
+          "world": "canon",
+          "relationship_stage": "married",
+          "characters": [
+            "夏以昼",
+            "你"
+          ],
+          "tags": [
+            "初遇",
+            "夜行"
+          ],
+          "length": "medium",
+          "word_count": "2518",
+          "created_at": "2026-08-13",
+          "generation_seed": {
+            "scene": "夜行车内",
+            "emotion": "克制的关心",
+            "conflict": "旧伤突然发作"
+          },
+          "summary": "在夜行车内，夏以昼陪你面对旧伤突然发作。",
+          "path": "content/stories/2026-08-13/016.md"
+        },
+        {
+          "id": "20260813017",
+          "title": "雪后阳台的围巾（秦彻）",
+          "fandom": "恋与深空",
+          "character": "qinche",
+          "world": "if",
+          "relationship_stage": "first_meet",
+          "characters": [
+            "秦彻",
+            "你"
+          ],
+          "tags": [
+            "冬日",
+            "治愈"
+          ],
+          "length": "medium",
+          "word_count": "2496",
+          "created_at": "2026-08-13",
+          "generation_seed": {
+            "scene": "雪后阳台",
+            "emotion": "带笑的试探",
+            "conflict": "任务改变了返程时间"
+          },
+          "summary": "在雪后阳台，秦彻陪你面对任务改变了返程时间。",
+          "path": "content/stories/2026-08-13/017.md"
+        },
+        {
+          "id": "20260813018",
+          "title": "便利店的薄荷糖（夏以昼）",
+          "fandom": "恋与深空",
+          "character": "xiyi",
+          "world": "modern",
+          "relationship_stage": "close",
+          "characters": [
+            "夏以昼",
+            "你"
+          ],
+          "tags": [
+            "便利店",
+            "暧昧"
+          ],
+          "length": "medium",
+          "word_count": "2525",
+          "created_at": "2026-08-13",
+          "generation_seed": {
+            "scene": "深夜便利店",
+            "emotion": "沉默守护",
+            "conflict": "你不愿说出真实心意"
+          },
+          "summary": "在深夜便利店，夏以昼陪你面对你不愿说出真实心意。",
+          "path": "content/stories/2026-08-13/018.md"
+        },
+        {
+          "id": "20260813019",
+          "title": "旧街拐角的伞（秦彻）",
+          "fandom": "恋与深空",
+          "character": "qinche",
+          "world": "canon",
+          "relationship_stage": "dating",
+          "characters": [
+            "秦彻",
+            "你"
+          ],
+          "tags": [
+            "雨天",
+            "初遇"
+          ],
+          "length": "medium",
+          "word_count": "2496",
+          "created_at": "2026-08-13",
+          "generation_seed": {
+            "scene": "旧街拐角",
+            "emotion": "久别后的温柔",
+            "conflict": "你想独自承担"
+          },
+          "summary": "在旧街拐角，秦彻陪你面对你想独自承担。",
+          "path": "content/stories/2026-08-13/019.md"
+        },
+        {
+          "id": "20260813020",
+          "title": "任务归来的花（夏以昼）",
+          "fandom": "恋与深空",
+          "character": "xiyi",
+          "world": "if",
+          "relationship_stage": "married",
+          "characters": [
+            "夏以昼",
+            "你"
+          ],
+          "tags": [
+            "任务后",
+            "礼物"
+          ],
+          "length": "medium",
+          "word_count": "2519",
+          "created_at": "2026-08-13",
+          "generation_seed": {
+            "scene": "任务归来",
+            "emotion": "熟稔的包容",
+            "conflict": "约定被临时打断"
+          },
+          "summary": "在任务归来，夏以昼陪你面对约定被临时打断。",
+          "path": "content/stories/2026-08-13/020.md"
+        },
+        {
+          "id": "20260813021",
+          "title": "雨声停在门外（秦彻）",
+          "fandom": "恋与深空",
+          "character": "qinche",
+          "world": "modern",
+          "relationship_stage": "first_meet",
+          "characters": [
+            "秦彻",
+            "你"
+          ],
+          "tags": [
+            "治愈",
+            "雨夜"
+          ],
+          "length": "medium",
+          "word_count": "2493",
+          "created_at": "2026-08-13",
+          "generation_seed": {
+            "scene": "雨夜门厅",
+            "emotion": "克制的关心",
+            "conflict": "误会让你沉默"
+          },
+          "summary": "在雨夜门厅，秦彻陪你面对误会让你沉默。",
+          "path": "content/stories/2026-08-13/021.md"
+        },
+        {
+          "id": "20260813022",
+          "title": "天台上的第二杯热饮（夏以昼）",
+          "fandom": "恋与深空",
+          "character": "xiyi",
+          "world": "canon",
+          "relationship_stage": "close",
+          "characters": [
+            "夏以昼",
+            "你"
+          ],
+          "tags": [
+            "天台",
+            "陪伴"
+          ],
+          "length": "medium",
+          "word_count": "2504",
+          "created_at": "2026-08-13",
+          "generation_seed": {
+            "scene": "天台",
+            "emotion": "带笑的试探",
+            "conflict": "旧伤突然发作"
+          },
+          "summary": "在天台，夏以昼陪你面对旧伤突然发作。",
+          "path": "content/stories/2026-08-13/022.md"
+        },
+        {
+          "id": "20260813023",
+          "title": "返程航班延误以后（秦彻）",
+          "fandom": "恋与深空",
+          "character": "qinche",
+          "world": "if",
+          "relationship_stage": "dating",
+          "characters": [
+            "秦彻",
+            "你"
+          ],
+          "tags": [
+            "重逢",
+            "机场"
+          ],
+          "length": "medium",
+          "word_count": "2500",
+          "created_at": "2026-08-13",
+          "generation_seed": {
+            "scene": "返程航站楼",
+            "emotion": "沉默守护",
+            "conflict": "任务改变了返程时间"
+          },
+          "summary": "在返程航站楼，秦彻陪你面对任务改变了返程时间。",
+          "path": "content/stories/2026-08-13/023.md"
+        },
+        {
+          "id": "20260813024",
+          "title": "训练场最后一盏灯（夏以昼）",
+          "fandom": "恋与深空",
+          "character": "xiyi",
+          "world": "modern",
+          "relationship_stage": "married",
+          "characters": [
+            "夏以昼",
+            "你"
+          ],
+          "tags": [
+            "训练",
+            "守护"
+          ],
+          "length": "medium",
+          "word_count": "2524",
+          "created_at": "2026-08-13",
+          "generation_seed": {
+            "scene": "训练场边",
+            "emotion": "久别后的温柔",
+            "conflict": "你不愿说出真实心意"
+          },
+          "summary": "在训练场边，夏以昼陪你面对你不愿说出真实心意。",
+          "path": "content/stories/2026-08-13/024.md"
+        },
+        {
+          "id": "20260813025",
+          "title": "厨房里没有说出口的话（秦彻）",
+          "fandom": "恋与深空",
+          "character": "qinche",
+          "world": "canon",
+          "relationship_stage": "first_meet",
+          "characters": [
+            "秦彻",
+            "你"
+          ],
+          "tags": [
+            "日常",
+            "厨房"
+          ],
+          "length": "medium",
+          "word_count": "2493",
+          "created_at": "2026-08-13",
+          "generation_seed": {
+            "scene": "厨房清晨",
+            "emotion": "熟稔的包容",
+            "conflict": "你想独自承担"
+          },
+          "summary": "在厨房清晨，秦彻陪你面对你想独自承担。",
+          "path": "content/stories/2026-08-13/025.md"
+        },
+        {
+          "id": "20260813026",
+          "title": "夜行车的副驾驶（夏以昼）",
+          "fandom": "恋与深空",
+          "character": "xiyi",
+          "world": "if",
+          "relationship_stage": "close",
+          "characters": [
+            "夏以昼",
+            "你"
+          ],
+          "tags": [
+            "初遇",
+            "夜行"
+          ],
+          "length": "medium",
+          "word_count": "2519",
+          "created_at": "2026-08-13",
+          "generation_seed": {
+            "scene": "夜行车内",
+            "emotion": "克制的关心",
+            "conflict": "约定被临时打断"
+          },
+          "summary": "在夜行车内，夏以昼陪你面对约定被临时打断。",
+          "path": "content/stories/2026-08-13/026.md"
+        },
+        {
+          "id": "20260813027",
+          "title": "雪后阳台的围巾（秦彻）",
+          "fandom": "恋与深空",
+          "character": "qinche",
+          "world": "modern",
+          "relationship_stage": "dating",
+          "characters": [
+            "秦彻",
+            "你"
+          ],
+          "tags": [
+            "冬日",
+            "治愈"
+          ],
+          "length": "medium",
+          "word_count": "2493",
+          "created_at": "2026-08-13",
+          "generation_seed": {
+            "scene": "雪后阳台",
+            "emotion": "带笑的试探",
+            "conflict": "误会让你沉默"
+          },
+          "summary": "在雪后阳台，秦彻陪你面对误会让你沉默。",
+          "path": "content/stories/2026-08-13/027.md"
+        },
+        {
+          "id": "20260813028",
+          "title": "便利店的薄荷糖（夏以昼）",
+          "fandom": "恋与深空",
+          "character": "xiyi",
+          "world": "canon",
+          "relationship_stage": "married",
+          "characters": [
+            "夏以昼",
+            "你"
+          ],
+          "tags": [
+            "便利店",
+            "暧昧"
+          ],
+          "length": "medium",
+          "word_count": "2522",
+          "created_at": "2026-08-13",
+          "generation_seed": {
+            "scene": "深夜便利店",
+            "emotion": "沉默守护",
+            "conflict": "旧伤突然发作"
+          },
+          "summary": "在深夜便利店，夏以昼陪你面对旧伤突然发作。",
+          "path": "content/stories/2026-08-13/028.md"
+        },
+        {
+          "id": "20260813029",
+          "title": "旧街拐角的伞（秦彻）",
+          "fandom": "恋与深空",
+          "character": "qinche",
+          "world": "if",
+          "relationship_stage": "first_meet",
+          "characters": [
+            "秦彻",
+            "你"
+          ],
+          "tags": [
+            "雨天",
+            "初遇"
+          ],
+          "length": "medium",
+          "word_count": "2499",
+          "created_at": "2026-08-13",
+          "generation_seed": {
+            "scene": "旧街拐角",
+            "emotion": "久别后的温柔",
+            "conflict": "任务改变了返程时间"
+          },
+          "summary": "在旧街拐角，秦彻陪你面对任务改变了返程时间。",
+          "path": "content/stories/2026-08-13/029.md"
+        },
+        {
+          "id": "20260813030",
+          "title": "任务归来的花（夏以昼）",
+          "fandom": "恋与深空",
+          "character": "xiyi",
+          "world": "modern",
+          "relationship_stage": "close",
+          "characters": [
+            "夏以昼",
+            "你"
+          ],
+          "tags": [
+            "任务后",
+            "礼物"
+          ],
+          "length": "medium",
+          "word_count": "2521",
+          "created_at": "2026-08-13",
+          "generation_seed": {
+            "scene": "任务归来",
+            "emotion": "熟稔的包容",
+            "conflict": "你不愿说出真实心意"
+          },
+          "summary": "在任务归来，夏以昼陪你面对你不愿说出真实心意。",
+          "path": "content/stories/2026-08-13/030.md"
+        },
+        {
+          "id": "20260813031",
+          "title": "雨声停在门外（秦彻）",
+          "fandom": "恋与深空",
+          "character": "qinche",
+          "world": "canon",
+          "relationship_stage": "dating",
+          "characters": [
+            "秦彻",
+            "你"
+          ],
+          "tags": [
+            "治愈",
+            "雨夜"
+          ],
+          "length": "medium",
+          "word_count": "2493",
+          "created_at": "2026-08-13",
+          "generation_seed": {
+            "scene": "雨夜门厅",
+            "emotion": "克制的关心",
+            "conflict": "你想独自承担"
+          },
+          "summary": "在雨夜门厅，秦彻陪你面对你想独自承担。",
+          "path": "content/stories/2026-08-13/031.md"
+        },
+        {
+          "id": "20260813032",
+          "title": "天台上的第二杯热饮（夏以昼）",
+          "fandom": "恋与深空",
+          "character": "xiyi",
+          "world": "if",
+          "relationship_stage": "married",
+          "characters": [
+            "夏以昼",
+            "你"
+          ],
+          "tags": [
+            "天台",
+            "陪伴"
+          ],
+          "length": "medium",
+          "word_count": "2505",
+          "created_at": "2026-08-13",
+          "generation_seed": {
+            "scene": "天台",
+            "emotion": "带笑的试探",
+            "conflict": "约定被临时打断"
+          },
+          "summary": "在天台，夏以昼陪你面对约定被临时打断。",
+          "path": "content/stories/2026-08-13/032.md"
+        },
+        {
+          "id": "20260813033",
+          "title": "返程航班延误以后（秦彻）",
+          "fandom": "恋与深空",
+          "character": "qinche",
+          "world": "modern",
+          "relationship_stage": "first_meet",
+          "characters": [
+            "秦彻",
+            "你"
+          ],
+          "tags": [
+            "重逢",
+            "机场"
+          ],
+          "length": "medium",
+          "word_count": "2497",
+          "created_at": "2026-08-13",
+          "generation_seed": {
+            "scene": "返程航站楼",
+            "emotion": "沉默守护",
+            "conflict": "误会让你沉默"
+          },
+          "summary": "在返程航站楼，秦彻陪你面对误会让你沉默。",
+          "path": "content/stories/2026-08-13/033.md"
+        },
+        {
+          "id": "20260813034",
+          "title": "训练场最后一盏灯（夏以昼）",
+          "fandom": "恋与深空",
+          "character": "xiyi",
+          "world": "canon",
+          "relationship_stage": "close",
+          "characters": [
+            "夏以昼",
+            "你"
+          ],
+          "tags": [
+            "训练",
+            "守护"
+          ],
+          "length": "medium",
+          "word_count": "2521",
+          "created_at": "2026-08-13",
+          "generation_seed": {
+            "scene": "训练场边",
+            "emotion": "久别后的温柔",
+            "conflict": "旧伤突然发作"
+          },
+          "summary": "在训练场边，夏以昼陪你面对旧伤突然发作。",
+          "path": "content/stories/2026-08-13/034.md"
+        },
+        {
+          "id": "20260813035",
+          "title": "厨房里没有说出口的话（秦彻）",
+          "fandom": "恋与深空",
+          "character": "qinche",
+          "world": "if",
+          "relationship_stage": "dating",
+          "characters": [
+            "秦彻",
+            "你"
+          ],
+          "tags": [
+            "日常",
+            "厨房"
+          ],
+          "length": "medium",
+          "word_count": "2496",
+          "created_at": "2026-08-13",
+          "generation_seed": {
+            "scene": "厨房清晨",
+            "emotion": "熟稔的包容",
+            "conflict": "任务改变了返程时间"
+          },
+          "summary": "在厨房清晨，秦彻陪你面对任务改变了返程时间。",
+          "path": "content/stories/2026-08-13/035.md"
+        },
+        {
+          "id": "20260813036",
+          "title": "夜行车的副驾驶（夏以昼）",
+          "fandom": "恋与深空",
+          "character": "xiyi",
+          "world": "modern",
+          "relationship_stage": "married",
+          "characters": [
+            "夏以昼",
+            "你"
+          ],
+          "tags": [
+            "初遇",
+            "夜行"
+          ],
+          "length": "medium",
+          "word_count": "2521",
+          "created_at": "2026-08-13",
+          "generation_seed": {
+            "scene": "夜行车内",
+            "emotion": "克制的关心",
+            "conflict": "你不愿说出真实心意"
+          },
+          "summary": "在夜行车内，夏以昼陪你面对你不愿说出真实心意。",
+          "path": "content/stories/2026-08-13/036.md"
+        },
+        {
+          "id": "20260813037",
+          "title": "雪后阳台的围巾（秦彻）",
+          "fandom": "恋与深空",
+          "character": "qinche",
+          "world": "canon",
+          "relationship_stage": "first_meet",
+          "characters": [
+            "秦彻",
+            "你"
+          ],
+          "tags": [
+            "冬日",
+            "治愈"
+          ],
+          "length": "medium",
+          "word_count": "2493",
+          "created_at": "2026-08-13",
+          "generation_seed": {
+            "scene": "雪后阳台",
+            "emotion": "带笑的试探",
+            "conflict": "你想独自承担"
+          },
+          "summary": "在雪后阳台，秦彻陪你面对你想独自承担。",
+          "path": "content/stories/2026-08-13/037.md"
+        },
+        {
+          "id": "20260813038",
+          "title": "便利店的薄荷糖（夏以昼）",
+          "fandom": "恋与深空",
+          "character": "xiyi",
+          "world": "if",
+          "relationship_stage": "close",
+          "characters": [
+            "夏以昼",
+            "你"
+          ],
+          "tags": [
+            "便利店",
+            "暧昧"
+          ],
+          "length": "medium",
+          "word_count": "2523",
+          "created_at": "2026-08-13",
+          "generation_seed": {
+            "scene": "深夜便利店",
+            "emotion": "沉默守护",
+            "conflict": "约定被临时打断"
+          },
+          "summary": "在深夜便利店，夏以昼陪你面对约定被临时打断。",
+          "path": "content/stories/2026-08-13/038.md"
+        },
+        {
+          "id": "20260813039",
+          "title": "旧街拐角的伞（秦彻）",
+          "fandom": "恋与深空",
+          "character": "qinche",
+          "world": "modern",
+          "relationship_stage": "dating",
+          "characters": [
+            "秦彻",
+            "你"
+          ],
+          "tags": [
+            "雨天",
+            "初遇"
+          ],
+          "length": "medium",
+          "word_count": "2496",
+          "created_at": "2026-08-13",
+          "generation_seed": {
+            "scene": "旧街拐角",
+            "emotion": "久别后的温柔",
+            "conflict": "误会让你沉默"
+          },
+          "summary": "在旧街拐角，秦彻陪你面对误会让你沉默。",
+          "path": "content/stories/2026-08-13/039.md"
+        },
+        {
+          "id": "20260813040",
+          "title": "任务归来的花（夏以昼）",
+          "fandom": "恋与深空",
+          "character": "xiyi",
+          "world": "canon",
+          "relationship_stage": "married",
+          "characters": [
+            "夏以昼",
+            "你"
+          ],
+          "tags": [
+            "任务后",
+            "礼物"
+          ],
+          "length": "medium",
+          "word_count": "2518",
+          "created_at": "2026-08-13",
+          "generation_seed": {
+            "scene": "任务归来",
+            "emotion": "熟稔的包容",
+            "conflict": "旧伤突然发作"
+          },
+          "summary": "在任务归来，夏以昼陪你面对旧伤突然发作。",
+          "path": "content/stories/2026-08-13/040.md"
         }
       ]
     }

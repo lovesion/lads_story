@@ -3,7 +3,7 @@ from datetime import date
 from pathlib import Path
 import re
 
-REQUIRED = {"id", "title", "fandom", "character", "world", "relationship_stage", "characters", "tags", "length", "created_at", "generation_seed"}
+REQUIRED = {"id", "title", "fandom", "character", "world", "relationship_stage", "characters", "tags", "length", "word_count", "created_at", "generation_seed"}
 
 def parse_story(path: Path) -> tuple[dict, str]:
     text = path.read_text(encoding="utf-8")
@@ -32,7 +32,13 @@ def validate(meta: dict, body: str, path: Path) -> list[str]:
     if meta.get("character") not in {"qinche", "xiyi"}: errors.append("invalid character")
     if meta.get("world") not in {"canon", "if", "modern"}: errors.append("invalid world")
     if meta.get("relationship_stage") not in {"first_meet", "close", "dating", "married"}: errors.append("invalid relationship_stage")
-    if meta.get("length") != "short": errors.append("length must equal short")
+    if meta.get("length") != "medium": errors.append("length must equal medium")
+    body_count = len(re.sub(r"\s+", "", body))
+    try:
+        declared_count = int(str(meta.get("word_count", "")))
+        if not 2000 <= declared_count <= 4000: errors.append("word_count must be between 2000 and 4000")
+        if declared_count != body_count: errors.append(f"word_count must equal body character count ({body_count})")
+    except ValueError: errors.append("word_count must be an integer")
     for key in ("characters", "tags"):
         if not isinstance(meta.get(key), list) or not meta[key]: errors.append(f"{key} must be a non-empty list")
     seed = meta.get("generation_seed")
