@@ -67,14 +67,15 @@ def main() -> None:
     # 20 Qin Che and 20 Xia Yizhou today: within the permitted randomized 15–25 range.
     names = ["秦彻", "夏以昼"] * 20
     for n, name in enumerate(names, 1):
-        title, scene, tags = SCENES[(n - 1) % len(SCENES)]
+        base_title, scene, tags = SCENES[(n - 1) % len(SCENES)]
+        title = f"{base_title}·第{n}夜（{name}）"
         emotion = EMOTIONS[(n - 1) % len(EMOTIONS)]
         conflict = CONFLICTS[(n - 1) % len(CONFLICTS)]
         text = body(name, scene, emotion, conflict, n)
         count = len("".join(text.split()))
         meta = f'''---
 id: "{TODAY.replace('-', '')}{n:03d}"
-title: "{title}（{name}）"
+title: "{title}"
 fandom: "恋与深空"
 character: "{PROFILES[name]['slug']}"
 world: "{WORLDS[(n - 1) % len(WORLDS)]}"
@@ -96,7 +97,9 @@ generation_seed:
 ---
 
 '''
-        (OUT / f"{n:03d}.md").write_text(meta + text + "\n", encoding="utf-8")
+        character_dir = OUT / name
+        character_dir.mkdir(exist_ok=True)
+        (character_dir / f"{title}.md").write_text(meta + text + "\n", encoding="utf-8")
     print(f"Wrote 40 drafts to {OUT}")
 
 if __name__ == "__main__":

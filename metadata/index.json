@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-12T17:32:40Z",
+  "generated_at": "2026-08-12T17:37:05Z",
   "dates": [
     {
       "date": "2026-08-13",
@@ -8,7 +8,7 @@
       "stories": [
         {
           "id": "20260813001",
-          "title": "雨声停在门外（秦彻）",
+          "title": "雨声停在门外·第1夜（秦彻）",
           "fandom": "恋与深空",
           "character": "qinche",
           "world": "canon",
@@ -30,11 +30,11 @@
             "conflict": "你想独自承担"
           },
           "summary": "在雨夜门厅，秦彻陪你面对你想独自承担。",
-          "path": "content/stories/2026-08-13/001.md"
+          "path": "content/stories/2026-08-13/秦彻/雨声停在门外·第1夜（秦彻）.md"
         },
         {
           "id": "20260813002",
-          "title": "天台上的第二杯热饮（夏以昼）",
+          "title": "天台上的第二杯热饮·第2夜（夏以昼）",
           "fandom": "恋与深空",
           "character": "xiyi",
           "world": "if",
@@ -56,11 +56,11 @@
             "conflict": "约定被临时打断"
           },
           "summary": "在天台，夏以昼陪你面对约定被临时打断。",
-          "path": "content/stories/2026-08-13/002.md"
+          "path": "content/stories/2026-08-13/夏以昼/天台上的第二杯热饮·第2夜（夏以昼）.md"
         },
         {
           "id": "20260813003",
-          "title": "返程航班延误以后（秦彻）",
+          "title": "返程航班延误以后·第3夜（秦彻）",
           "fandom": "恋与深空",
           "character": "qinche",
           "world": "modern",
@@ -82,11 +82,11 @@
             "conflict": "误会让你沉默"
           },
           "summary": "在返程航站楼，秦彻陪你面对误会让你沉默。",
-          "path": "content/stories/2026-08-13/003.md"
+          "path": "content/stories/2026-08-13/秦彻/返程航班延误以后·第3夜（秦彻）.md"
         },
         {
           "id": "20260813004",
-          "title": "训练场最后一盏灯（夏以昼）",
+          "title": "训练场最后一盏灯·第4夜（夏以昼）",
           "fandom": "恋与深空",
           "character": "xiyi",
           "world": "canon",
@@ -108,11 +108,11 @@
             "conflict": "旧伤突然发作"
           },
           "summary": "在训练场边，夏以昼陪你面对旧伤突然发作。",
-          "path": "content/stories/2026-08-13/004.md"
+          "path": "content/stories/2026-08-13/夏以昼/训练场最后一盏灯·第4夜（夏以昼）.md"
         },
         {
           "id": "20260813005",
-          "title": "厨房里没有说出口的话（秦彻）",
+          "title": "厨房里没有说出口的话·第5夜（秦彻）",
           "fandom": "恋与深空",
           "character": "qinche",
           "world": "if",
@@ -134,11 +134,11 @@
             "conflict": "任务改变了返程时间"
           },
           "summary": "在厨房清晨，秦彻陪你面对任务改变了返程时间。",
-          "path": "content/stories/2026-08-13/005.md"
+          "path": "content/stories/2026-08-13/秦彻/厨房里没有说出口的话·第5夜（秦彻）.md"
         },
         {
           "id": "20260813006",
-          "title": "夜行车的副驾驶（夏以昼）",
+          "title": "夜行车的副驾驶·第6夜（夏以昼）",
           "fandom": "恋与深空",
           "character": "xiyi",
           "world": "modern",
@@ -160,11 +160,11 @@
             "conflict": "你不愿说出真实心意"
           },
           "summary": "在夜行车内，夏以昼陪你面对你不愿说出真实心意。",
-          "path": "content/stories/2026-08-13/006.md"
+          "path": "content/stories/2026-08-13/夏以昼/夜行车的副驾驶·第6夜（夏以昼）.md"
         },
         {
           "id": "20260813007",
-          "title": "雪后阳台的围巾（秦彻）",
+          "title": "雪后阳台的围巾·第7夜（秦彻）",
           "fandom": "恋与深空",
           "character": "qinche",
           "world": "canon",
@@ -186,11 +186,11 @@
             "conflict": "你想独自承担"
           },
           "summary": "在雪后阳台，秦彻陪你面对你想独自承担。",
-          "path": "content/stories/2026-08-13/007.md"
+          "path": "content/stories/2026-08-13/秦彻/雪后阳台的围巾·第7夜（秦彻）.md"
         },
         {
           "id": "20260813008",
-          "title": "便利店的薄荷糖（夏以昼）",
+          "title": "便利店的薄荷糖·第8夜（夏以昼）",
           "fandom": "恋与深空",
           "character": "xiyi",
           "world": "if",
@@ -212,11 +212,11 @@
             "conflict": "约定被临时打断"
           },
           "summary": "在深夜便利店，夏以昼陪你面对约定被临时打断。",
-          "path": "content/stories/2026-08-13/008.md"
+          "path": "content/stories/2026-08-13/夏以昼/便利店的薄荷糖·第8夜（夏以昼）.md"
         },
         {
           "id": "20260813009",
-          "title": "旧街拐角的伞（秦彻）",
+          "title": "旧街拐角的伞·第9夜（秦彻）",
           "fandom": "恋与深空",
           "character": "qinche",
           "world": "modern",
@@ -238,11 +238,11 @@
             "conflict": "误会让你沉默"
           },
           "summary": "在旧街拐角，秦彻陪你面对误会让你沉默。",
-          "path": "content/stories/2026-08-13/009.md"
+          "path": "content/stories/2026-08-13/秦彻/旧街拐角的伞·第9夜（秦彻）.md"
         },
         {
           "id": "20260813010",
-          "title": "任务归来的花（夏以昼）",
+          "title": "任务归来的花·第10夜（夏以昼）",
           "fandom": "恋与深空",
           "character": "xiyi",
           "world": "canon",
@@ -264,11 +264,11 @@
             "conflict": "旧伤突然发作"
           },
           "summary": "在任务归来，夏以昼陪你面对旧伤突然发作。",
-          "path": "content/stories/2026-08-13/010.md"
+          "path": "content/stories/2026-08-13/夏以昼/任务归来的花·第10夜（夏以昼）.md"
         },
         {
           "id": "20260813011",
-          "title": "雨声停在门外（秦彻）",
+          "title": "雨声停在门外·第11夜（秦彻）",
           "fandom": "恋与深空",
           "character": "qinche",
           "world": "if",
@@ -290,11 +290,11 @@
             "conflict": "任务改变了返程时间"
           },
           "summary": "在雨夜门厅，秦彻陪你面对任务改变了返程时间。",
-          "path": "content/stories/2026-08-13/011.md"
+          "path": "content/stories/2026-08-13/秦彻/雨声停在门外·第11夜（秦彻）.md"
         },
         {
           "id": "20260813012",
-          "title": "天台上的第二杯热饮（夏以昼）",
+          "title": "天台上的第二杯热饮·第12夜（夏以昼）",
           "fandom": "恋与深空",
           "character": "xiyi",
           "world": "modern",
@@ -316,11 +316,11 @@
             "conflict": "你不愿说出真实心意"
           },
           "summary": "在天台，夏以昼陪你面对你不愿说出真实心意。",
-          "path": "content/stories/2026-08-13/012.md"
+          "path": "content/stories/2026-08-13/夏以昼/天台上的第二杯热饮·第12夜（夏以昼）.md"
         },
         {
           "id": "20260813013",
-          "title": "返程航班延误以后（秦彻）",
+          "title": "返程航班延误以后·第13夜（秦彻）",
           "fandom": "恋与深空",
           "character": "qinche",
           "world": "canon",
@@ -342,11 +342,11 @@
             "conflict": "你想独自承担"
           },
           "summary": "在返程航站楼，秦彻陪你面对你想独自承担。",
-          "path": "content/stories/2026-08-13/013.md"
+          "path": "content/stories/2026-08-13/秦彻/返程航班延误以后·第13夜（秦彻）.md"
         },
         {
           "id": "20260813014",
-          "title": "训练场最后一盏灯（夏以昼）",
+          "title": "训练场最后一盏灯·第14夜（夏以昼）",
           "fandom": "恋与深空",
           "character": "xiyi",
           "world": "if",
@@ -368,11 +368,11 @@
             "conflict": "约定被临时打断"
           },
           "summary": "在训练场边，夏以昼陪你面对约定被临时打断。",
-          "path": "content/stories/2026-08-13/014.md"
+          "path": "content/stories/2026-08-13/夏以昼/训练场最后一盏灯·第14夜（夏以昼）.md"
         },
         {
           "id": "20260813015",
-          "title": "厨房里没有说出口的话（秦彻）",
+          "title": "厨房里没有说出口的话·第15夜（秦彻）",
           "fandom": "恋与深空",
           "character": "qinche",
           "world": "modern",
@@ -394,11 +394,11 @@
             "conflict": "误会让你沉默"
           },
           "summary": "在厨房清晨，秦彻陪你面对误会让你沉默。",
-          "path": "content/stories/2026-08-13/015.md"
+          "path": "content/stories/2026-08-13/秦彻/厨房里没有说出口的话·第15夜（秦彻）.md"
         },
         {
           "id": "20260813016",
-          "title": "夜行车的副驾驶（夏以昼）",
+          "title": "夜行车的副驾驶·第16夜（夏以昼）",
           "fandom": "恋与深空",
           "character": "xiyi",
           "world": "canon",
@@ -420,11 +420,11 @@
             "conflict": "旧伤突然发作"
           },
           "summary": "在夜行车内，夏以昼陪你面对旧伤突然发作。",
-          "path": "content/stories/2026-08-13/016.md"
+          "path": "content/stories/2026-08-13/夏以昼/夜行车的副驾驶·第16夜（夏以昼）.md"
         },
         {
           "id": "20260813017",
-          "title": "雪后阳台的围巾（秦彻）",
+          "title": "雪后阳台的围巾·第17夜（秦彻）",
           "fandom": "恋与深空",
           "character": "qinche",
           "world": "if",
@@ -446,11 +446,11 @@
             "conflict": "任务改变了返程时间"
           },
           "summary": "在雪后阳台，秦彻陪你面对任务改变了返程时间。",
-          "path": "content/stories/2026-08-13/017.md"
+          "path": "content/stories/2026-08-13/秦彻/雪后阳台的围巾·第17夜（秦彻）.md"
         },
         {
           "id": "20260813018",
-          "title": "便利店的薄荷糖（夏以昼）",
+          "title": "便利店的薄荷糖·第18夜（夏以昼）",
           "fandom": "恋与深空",
           "character": "xiyi",
           "world": "modern",
@@ -472,11 +472,11 @@
             "conflict": "你不愿说出真实心意"
           },
           "summary": "在深夜便利店，夏以昼陪你面对你不愿说出真实心意。",
-          "path": "content/stories/2026-08-13/018.md"
+          "path": "content/stories/2026-08-13/夏以昼/便利店的薄荷糖·第18夜（夏以昼）.md"
         },
         {
           "id": "20260813019",
-          "title": "旧街拐角的伞（秦彻）",
+          "title": "旧街拐角的伞·第19夜（秦彻）",
           "fandom": "恋与深空",
           "character": "qinche",
           "world": "canon",
@@ -498,11 +498,11 @@
             "conflict": "你想独自承担"
           },
           "summary": "在旧街拐角，秦彻陪你面对你想独自承担。",
-          "path": "content/stories/2026-08-13/019.md"
+          "path": "content/stories/2026-08-13/秦彻/旧街拐角的伞·第19夜（秦彻）.md"
         },
         {
           "id": "20260813020",
-          "title": "任务归来的花（夏以昼）",
+          "title": "任务归来的花·第20夜（夏以昼）",
           "fandom": "恋与深空",
           "character": "xiyi",
           "world": "if",
@@ -524,11 +524,11 @@
             "conflict": "约定被临时打断"
           },
           "summary": "在任务归来，夏以昼陪你面对约定被临时打断。",
-          "path": "content/stories/2026-08-13/020.md"
+          "path": "content/stories/2026-08-13/夏以昼/任务归来的花·第20夜（夏以昼）.md"
         },
         {
           "id": "20260813021",
-          "title": "雨声停在门外（秦彻）",
+          "title": "雨声停在门外·第21夜（秦彻）",
           "fandom": "恋与深空",
           "character": "qinche",
           "world": "modern",
@@ -550,11 +550,11 @@
             "conflict": "误会让你沉默"
           },
           "summary": "在雨夜门厅，秦彻陪你面对误会让你沉默。",
-          "path": "content/stories/2026-08-13/021.md"
+          "path": "content/stories/2026-08-13/秦彻/雨声停在门外·第21夜（秦彻）.md"
         },
         {
           "id": "20260813022",
-          "title": "天台上的第二杯热饮（夏以昼）",
+          "title": "天台上的第二杯热饮·第22夜（夏以昼）",
           "fandom": "恋与深空",
           "character": "xiyi",
           "world": "canon",
@@ -576,11 +576,11 @@
             "conflict": "旧伤突然发作"
           },
           "summary": "在天台，夏以昼陪你面对旧伤突然发作。",
-          "path": "content/stories/2026-08-13/022.md"
+          "path": "content/stories/2026-08-13/夏以昼/天台上的第二杯热饮·第22夜（夏以昼）.md"
         },
         {
           "id": "20260813023",
-          "title": "返程航班延误以后（秦彻）",
+          "title": "返程航班延误以后·第23夜（秦彻）",
           "fandom": "恋与深空",
           "character": "qinche",
           "world": "if",
@@ -602,11 +602,11 @@
             "conflict": "任务改变了返程时间"
           },
           "summary": "在返程航站楼，秦彻陪你面对任务改变了返程时间。",
-          "path": "content/stories/2026-08-13/023.md"
+          "path": "content/stories/2026-08-13/秦彻/返程航班延误以后·第23夜（秦彻）.md"
         },
         {
           "id": "20260813024",
-          "title": "训练场最后一盏灯（夏以昼）",
+          "title": "训练场最后一盏灯·第24夜（夏以昼）",
           "fandom": "恋与深空",
           "character": "xiyi",
           "world": "modern",
@@ -628,11 +628,11 @@
             "conflict": "你不愿说出真实心意"
           },
           "summary": "在训练场边，夏以昼陪你面对你不愿说出真实心意。",
-          "path": "content/stories/2026-08-13/024.md"
+          "path": "content/stories/2026-08-13/夏以昼/训练场最后一盏灯·第24夜（夏以昼）.md"
         },
         {
           "id": "20260813025",
-          "title": "厨房里没有说出口的话（秦彻）",
+          "title": "厨房里没有说出口的话·第25夜（秦彻）",
           "fandom": "恋与深空",
           "character": "qinche",
           "world": "canon",
@@ -654,11 +654,11 @@
             "conflict": "你想独自承担"
           },
           "summary": "在厨房清晨，秦彻陪你面对你想独自承担。",
-          "path": "content/stories/2026-08-13/025.md"
+          "path": "content/stories/2026-08-13/秦彻/厨房里没有说出口的话·第25夜（秦彻）.md"
         },
         {
           "id": "20260813026",
-          "title": "夜行车的副驾驶（夏以昼）",
+          "title": "夜行车的副驾驶·第26夜（夏以昼）",
           "fandom": "恋与深空",
           "character": "xiyi",
           "world": "if",
@@ -680,11 +680,11 @@
             "conflict": "约定被临时打断"
           },
           "summary": "在夜行车内，夏以昼陪你面对约定被临时打断。",
-          "path": "content/stories/2026-08-13/026.md"
+          "path": "content/stories/2026-08-13/夏以昼/夜行车的副驾驶·第26夜（夏以昼）.md"
         },
         {
           "id": "20260813027",
-          "title": "雪后阳台的围巾（秦彻）",
+          "title": "雪后阳台的围巾·第27夜（秦彻）",
           "fandom": "恋与深空",
           "character": "qinche",
           "world": "modern",
@@ -706,11 +706,11 @@
             "conflict": "误会让你沉默"
           },
           "summary": "在雪后阳台，秦彻陪你面对误会让你沉默。",
-          "path": "content/stories/2026-08-13/027.md"
+          "path": "content/stories/2026-08-13/秦彻/雪后阳台的围巾·第27夜（秦彻）.md"
         },
         {
           "id": "20260813028",
-          "title": "便利店的薄荷糖（夏以昼）",
+          "title": "便利店的薄荷糖·第28夜（夏以昼）",
           "fandom": "恋与深空",
           "character": "xiyi",
           "world": "canon",
@@ -732,11 +732,11 @@
             "conflict": "旧伤突然发作"
           },
           "summary": "在深夜便利店，夏以昼陪你面对旧伤突然发作。",
-          "path": "content/stories/2026-08-13/028.md"
+          "path": "content/stories/2026-08-13/夏以昼/便利店的薄荷糖·第28夜（夏以昼）.md"
         },
         {
           "id": "20260813029",
-          "title": "旧街拐角的伞（秦彻）",
+          "title": "旧街拐角的伞·第29夜（秦彻）",
           "fandom": "恋与深空",
           "character": "qinche",
           "world": "if",
@@ -758,11 +758,11 @@
             "conflict": "任务改变了返程时间"
           },
           "summary": "在旧街拐角，秦彻陪你面对任务改变了返程时间。",
-          "path": "content/stories/2026-08-13/029.md"
+          "path": "content/stories/2026-08-13/秦彻/旧街拐角的伞·第29夜（秦彻）.md"
         },
         {
           "id": "20260813030",
-          "title": "任务归来的花（夏以昼）",
+          "title": "任务归来的花·第30夜（夏以昼）",
           "fandom": "恋与深空",
           "character": "xiyi",
           "world": "modern",
@@ -784,11 +784,11 @@
             "conflict": "你不愿说出真实心意"
           },
           "summary": "在任务归来，夏以昼陪你面对你不愿说出真实心意。",
-          "path": "content/stories/2026-08-13/030.md"
+          "path": "content/stories/2026-08-13/夏以昼/任务归来的花·第30夜（夏以昼）.md"
         },
         {
           "id": "20260813031",
-          "title": "雨声停在门外（秦彻）",
+          "title": "雨声停在门外·第31夜（秦彻）",
           "fandom": "恋与深空",
           "character": "qinche",
           "world": "canon",
@@ -810,11 +810,11 @@
             "conflict": "你想独自承担"
           },
           "summary": "在雨夜门厅，秦彻陪你面对你想独自承担。",
-          "path": "content/stories/2026-08-13/031.md"
+          "path": "content/stories/2026-08-13/秦彻/雨声停在门外·第31夜（秦彻）.md"
         },
         {
           "id": "20260813032",
-          "title": "天台上的第二杯热饮（夏以昼）",
+          "title": "天台上的第二杯热饮·第32夜（夏以昼）",
           "fandom": "恋与深空",
           "character": "xiyi",
           "world": "if",
@@ -836,11 +836,11 @@
             "conflict": "约定被临时打断"
           },
           "summary": "在天台，夏以昼陪你面对约定被临时打断。",
-          "path": "content/stories/2026-08-13/032.md"
+          "path": "content/stories/2026-08-13/夏以昼/天台上的第二杯热饮·第32夜（夏以昼）.md"
         },
         {
           "id": "20260813033",
-          "title": "返程航班延误以后（秦彻）",
+          "title": "返程航班延误以后·第33夜（秦彻）",
           "fandom": "恋与深空",
           "character": "qinche",
           "world": "modern",
@@ -862,11 +862,11 @@
             "conflict": "误会让你沉默"
           },
           "summary": "在返程航站楼，秦彻陪你面对误会让你沉默。",
-          "path": "content/stories/2026-08-13/033.md"
+          "path": "content/stories/2026-08-13/秦彻/返程航班延误以后·第33夜（秦彻）.md"
         },
         {
           "id": "20260813034",
-          "title": "训练场最后一盏灯（夏以昼）",
+          "title": "训练场最后一盏灯·第34夜（夏以昼）",
           "fandom": "恋与深空",
           "character": "xiyi",
           "world": "canon",
@@ -888,11 +888,11 @@
             "conflict": "旧伤突然发作"
           },
           "summary": "在训练场边，夏以昼陪你面对旧伤突然发作。",
-          "path": "content/stories/2026-08-13/034.md"
+          "path": "content/stories/2026-08-13/夏以昼/训练场最后一盏灯·第34夜（夏以昼）.md"
         },
         {
           "id": "20260813035",
-          "title": "厨房里没有说出口的话（秦彻）",
+          "title": "厨房里没有说出口的话·第35夜（秦彻）",
           "fandom": "恋与深空",
           "character": "qinche",
           "world": "if",
@@ -914,11 +914,11 @@
             "conflict": "任务改变了返程时间"
           },
           "summary": "在厨房清晨，秦彻陪你面对任务改变了返程时间。",
-          "path": "content/stories/2026-08-13/035.md"
+          "path": "content/stories/2026-08-13/秦彻/厨房里没有说出口的话·第35夜（秦彻）.md"
         },
         {
           "id": "20260813036",
-          "title": "夜行车的副驾驶（夏以昼）",
+          "title": "夜行车的副驾驶·第36夜（夏以昼）",
           "fandom": "恋与深空",
           "character": "xiyi",
           "world": "modern",
@@ -940,11 +940,11 @@
             "conflict": "你不愿说出真实心意"
           },
           "summary": "在夜行车内，夏以昼陪你面对你不愿说出真实心意。",
-          "path": "content/stories/2026-08-13/036.md"
+          "path": "content/stories/2026-08-13/夏以昼/夜行车的副驾驶·第36夜（夏以昼）.md"
         },
         {
           "id": "20260813037",
-          "title": "雪后阳台的围巾（秦彻）",
+          "title": "雪后阳台的围巾·第37夜（秦彻）",
           "fandom": "恋与深空",
           "character": "qinche",
           "world": "canon",
@@ -966,11 +966,11 @@
             "conflict": "你想独自承担"
           },
           "summary": "在雪后阳台，秦彻陪你面对你想独自承担。",
-          "path": "content/stories/2026-08-13/037.md"
+          "path": "content/stories/2026-08-13/秦彻/雪后阳台的围巾·第37夜（秦彻）.md"
         },
         {
           "id": "20260813038",
-          "title": "便利店的薄荷糖（夏以昼）",
+          "title": "便利店的薄荷糖·第38夜（夏以昼）",
           "fandom": "恋与深空",
           "character": "xiyi",
           "world": "if",
@@ -992,11 +992,11 @@
             "conflict": "约定被临时打断"
           },
           "summary": "在深夜便利店，夏以昼陪你面对约定被临时打断。",
-          "path": "content/stories/2026-08-13/038.md"
+          "path": "content/stories/2026-08-13/夏以昼/便利店的薄荷糖·第38夜（夏以昼）.md"
         },
         {
           "id": "20260813039",
-          "title": "旧街拐角的伞（秦彻）",
+          "title": "旧街拐角的伞·第39夜（秦彻）",
           "fandom": "恋与深空",
           "character": "qinche",
           "world": "modern",
@@ -1018,11 +1018,11 @@
             "conflict": "误会让你沉默"
           },
           "summary": "在旧街拐角，秦彻陪你面对误会让你沉默。",
-          "path": "content/stories/2026-08-13/039.md"
+          "path": "content/stories/2026-08-13/秦彻/旧街拐角的伞·第39夜（秦彻）.md"
         },
         {
           "id": "20260813040",
-          "title": "任务归来的花（夏以昼）",
+          "title": "任务归来的花·第40夜（夏以昼）",
           "fandom": "恋与深空",
           "character": "xiyi",
           "world": "canon",
@@ -1044,7 +1044,7 @@
             "conflict": "旧伤突然发作"
           },
           "summary": "在任务归来，夏以昼陪你面对旧伤突然发作。",
-          "path": "content/stories/2026-08-13/040.md"
+          "path": "content/stories/2026-08-13/夏以昼/任务归来的花·第40夜（夏以昼）.md"
         }
       ]
     }

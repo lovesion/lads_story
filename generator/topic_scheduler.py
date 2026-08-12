@@ -8,7 +8,7 @@ PROFILES = {"qinche": ("秦彻", ["夜行车内", "任务归来", "雨夜门厅"
 CONFLICTS = ["你想独自承担", "约定被临时打断", "误会让你沉默", "旧伤突然发作", "任务改变了返程时间", "你不愿说出真实心意"]
 def main():
     today = date.today(); rng = random.Random(int(hashlib.sha256(today.isoformat().encode()).hexdigest(), 16)); used = set()
-    for path in (ROOT / "content" / "stories").glob("*/*.md"):
+    for path in (ROOT / "content" / "stories").glob("*/*/*.md"):
         meta, _ = parse_story(path)
         if str(meta.get("created_at", "")) >= (today - timedelta(days=30)).isoformat():
             seed = meta.get("generation_seed", {}); used.add((meta.get("character"), seed.get("scene"), seed.get("conflict")))

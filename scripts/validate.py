@@ -2,7 +2,7 @@ from pathlib import Path
 import sys
 from story_lib import parse_story, validate
 root = Path(__file__).resolve().parents[1]; seen, failures = set(), []
-for path in sorted((root / "content" / "stories").glob("*/*.md")):
+for path in sorted((root / "content" / "stories").glob("*/*/*.md")):
     try:
         meta, body = parse_story(path); errors = validate(meta, body, path); story_id = str(meta.get("id", ""))
         if story_id in seen: errors.append("duplicate id")

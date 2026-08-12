@@ -10,4 +10,5 @@ python scripts/build_index.py
 ```
 
 文章放在 `content/stories/YYYY-MM-DD/`。每日生产规范见 `generator/daily-run.md`。
+文章采用三级目录：`content/stories/日期/男主名/文章标题.md`，例如 `content/stories/2026-08-13/秦彻/雨声停在门外·第1夜（秦彻）.md`。
 

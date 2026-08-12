@@ -23,6 +23,8 @@ def parse_story(path: Path) -> tuple[dict, str]:
         meta[key] = [] if active_list else ({} if active_object else value.strip().strip('"'))
     return meta, body.strip()
 
+CHARACTER_DIRS = {"qinche": "秦彻", "xiyi": "夏以昼"}
+
 def validate(meta: dict, body: str, path: Path) -> list[str]:
     errors = []
     if unknown := set(meta) - (REQUIRED | {"summary"}): errors.append(f"unknown fields: {', '.join(sorted(unknown))}")
@@ -30,6 +32,10 @@ def validate(meta: dict, body: str, path: Path) -> list[str]:
     if not re.fullmatch(r"\d{11}", str(meta.get("id", ""))): errors.append("id must be 11 digits")
     if meta.get("fandom") != "恋与深空": errors.append("fandom must equal 恋与深空")
     if meta.get("character") not in {"qinche", "xiyi"}: errors.append("invalid character")
+    if meta.get("character") in CHARACTER_DIRS and path.parent.name != CHARACTER_DIRS[meta["character"]]:
+        errors.append(f"story must be stored under {CHARACTER_DIRS[meta['character']]}/")
+    if path.suffix == ".md" and path.stem != str(meta.get("title", "")):
+        errors.append("filename must exactly match title")
     if meta.get("world") not in {"canon", "if", "modern"}: errors.append("invalid world")
     if meta.get("relationship_stage") not in {"first_meet", "close", "dating", "married"}: errors.append("invalid relationship_stage")
     if meta.get("length") != "medium": errors.append("length must equal medium")
@@ -45,7 +51,7 @@ def validate(meta: dict, body: str, path: Path) -> list[str]:
     if not isinstance(seed, dict) or any(not seed.get(key) for key in ("scene", "emotion", "conflict")): errors.append("generation_seed must contain scene, emotion and conflict")
     try:
         created = date.fromisoformat(str(meta.get("created_at")))
-        if created.isoformat() != path.parent.name: errors.append("created_at must match its directory")
+        if created.isoformat() != path.parent.parent.name: errors.append("created_at must match its date directory")
         if str(meta.get("id"))[:8] != created.strftime("%Y%m%d"): errors.append("id date must match created_at")
     except ValueError: errors.append("created_at must be ISO date")
     if not body: errors.append("body must not be empty")
