@@ -1,0 +1,5 @@
+# 每日发布
+
+每天在 `content/stories/YYYY-MM-DD/` 生成 40 篇《恋与深空》乙女向中文超短篇。秦彻随机 15–25 篇，夏以昼补足；先运行 `python generator/topic_scheduler.py`，再按返回的种子写作。
+
+必须运行 `python scripts/validate.py`、`python scripts/build_index.py`、再次校验。只有全部通过才提交并推送；内容须遵守适用平台、版权方和法律规则。
