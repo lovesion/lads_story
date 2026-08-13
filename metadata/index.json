@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-13T05:03:21Z",
+  "generated_at": "2026-08-13T05:09:26Z",
   "dates": [
     {
       "date": "2026-08-13",
@@ -768,22 +768,22 @@
           "world": "modern",
           "relationship_stage": "close",
           "characters": [
-            "夏以昼",
-            "你"
+            "夏以昼"
           ],
           "tags": [
-            "任务后",
-            "礼物"
+            "门锁",
+            "晚归",
+            "安全"
           ],
           "length": "medium",
-          "word_count": "2094",
+          "word_count": "2718",
           "created_at": "2026-08-13",
           "generation_seed": {
-            "scene": "任务归来",
-            "emotion": "熟稔的包容",
-            "conflict": "你不愿说出真实心意"
+            "scene": "深夜公寓门口",
+            "emotion": "担心后的释然",
+            "conflict": "夏以昼迟迟未归又失联，你怕他出事也怕自己的追问越界"
           },
-          "summary": "在任务归来，夏以昼陪你面对你不愿说出真实心意。",
+          "summary": "夏以昼晚归并非失约，而是在修一把坏锁；你们借此谈清了安全与报备的边界。",
           "path": "content/stories/2026-08-13/夏以昼/门锁响得太晚.md"
         },
         {
