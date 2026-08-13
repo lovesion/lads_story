@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-13T04:49:41Z",
+  "generated_at": "2026-08-13T04:52:23Z",
   "dates": [
     {
       "date": "2026-08-13",
@@ -661,25 +661,25 @@
           "title": "路灯一盏盏后退",
           "fandom": "恋与深空",
           "character": "xiyi",
-          "world": "if",
+          "world": "modern",
           "relationship_stage": "close",
           "characters": [
-            "夏以昼",
-            "你"
+            "夏以昼"
           ],
           "tags": [
-            "初遇",
-            "夜行"
+            "夜车",
+            "拒绝",
+            "练习"
           ],
           "length": "medium",
-          "word_count": "2076",
+          "word_count": "2453",
           "created_at": "2026-08-13",
           "generation_seed": {
-            "scene": "夜行车内",
-            "emotion": "克制的关心",
-            "conflict": "约定被临时打断"
+            "scene": "夜晚车内",
+            "emotion": "胆怯后的笃定",
+            "conflict": "你难以拒绝不合理的请求，夏以昼陪你练习而不替你回绝"
           },
-          "summary": "在夜行车内，夏以昼陪你面对约定被临时打断。",
+          "summary": "回程车里的一次角色扮演，让你练习把不想答应的话说成真正的拒绝。",
           "path": "content/stories/2026-08-13/夏以昼/路灯一盏盏后退.md"
         },
         {
