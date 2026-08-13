@@ -1,7 +1,1093 @@
 {
   "version": 1,
-  "generated_at": "2026-08-13T06:04:08Z",
+  "generated_at": "2026-08-13T19:40:54Z",
   "dates": [
+    {
+      "date": "2026-08-14",
+      "count": 40,
+      "stories": [
+        {
+          "id": "20260814001",
+          "title": "投币口吞下的蓝色代币",
+          "fandom": "恋与深空",
+          "character": "qinche",
+          "world": "modern",
+          "relationship_stage": "close",
+          "characters": [
+            "秦彻"
+          ],
+          "tags": [
+            "现代AU",
+            "旧游戏厅",
+            "纪念",
+            "AI辅助"
+          ],
+          "length": "medium",
+          "word_count": "2909",
+          "created_at": "2026-08-14",
+          "generation_seed": {
+            "scene": "即将停业的旧游戏厅",
+            "emotion": "克制后的体谅",
+            "conflict": "你想替陌生人找回纪念代币，秦彻认为先确认规则与风险"
+          },
+          "summary": "旧游戏厅清场的傍晚，你和秦彻为一枚蓝色代币多留了一小时。",
+          "path": "content/stories/2026-08-14/秦彻/投币口吞下的蓝色代币.md"
+        },
+        {
+          "id": "20260814002",
+          "title": "钟表铺借走的一小时",
+          "fandom": "恋与深空",
+          "character": "qinche",
+          "world": "modern",
+          "relationship_stage": "dating",
+          "characters": [
+            "秦彻"
+          ],
+          "tags": [
+            "现代AU",
+            "钟表铺",
+            "失约",
+            "AI辅助"
+          ],
+          "length": "medium",
+          "word_count": "2458",
+          "created_at": "2026-08-14",
+          "generation_seed": {
+            "scene": "老街钟表铺",
+            "emotion": "羞惭后的坦白",
+            "conflict": "你为完成陌生人的托付错过约会，想用借口掩饰失约"
+          },
+          "summary": "替人送修旧表的下午，你学会把迟到说出口，而不是藏进借来的时间里。",
+          "path": "content/stories/2026-08-14/秦彻/钟表铺借走的一小时.md"
+        },
+        {
+          "id": "20260814003",
+          "title": "玻璃温室的晚班表",
+          "fandom": "恋与深空",
+          "character": "qinche",
+          "world": "modern",
+          "relationship_stage": "close",
+          "characters": [
+            "秦彻"
+          ],
+          "tags": [
+            "现代AU",
+            "温室",
+            "晚班",
+            "AI辅助"
+          ],
+          "length": "medium",
+          "word_count": "2382",
+          "created_at": "2026-08-14",
+          "generation_seed": {
+            "scene": "植物园玻璃温室",
+            "emotion": "倔强后的松动",
+            "conflict": "你想独自顶完临时夜班，秦彻担心闭馆后的安全与交接风险"
+          },
+          "summary": "温室缺人的那个夜晚，你终于明白求助不是把责任丢给别人。",
+          "path": "content/stories/2026-08-14/秦彻/玻璃温室的晚班表.md"
+        },
+        {
+          "id": "20260814004",
+          "title": "走廊尽头的布景门",
+          "fandom": "恋与深空",
+          "character": "qinche",
+          "world": "modern",
+          "relationship_stage": "dating",
+          "characters": [
+            "秦彻"
+          ],
+          "tags": [
+            "现代AU",
+            "社区剧场",
+            "演出",
+            "AI辅助"
+          ],
+          "length": "medium",
+          "word_count": "2358",
+          "created_at": "2026-08-14",
+          "generation_seed": {
+            "scene": "社区剧场后台",
+            "emotion": "执拗后的释然",
+            "conflict": "你坚持保留被雨淋坏的手绘布景，秦彻认为演出安全和整体效果更重要"
+          },
+          "summary": "暴雨毁了舞台布景，你和秦彻在最后一晚决定保留什么、重做什么。",
+          "path": "content/stories/2026-08-14/秦彻/走廊尽头的布景门.md"
+        },
+        {
+          "id": "20260814005",
+          "title": "渡轮最后一班靠岸",
+          "fandom": "恋与深空",
+          "character": "qinche",
+          "world": "modern",
+          "relationship_stage": "close",
+          "characters": [
+            "秦彻"
+          ],
+          "tags": [
+            "现代AU",
+            "渡轮",
+            "归还",
+            "AI辅助"
+          ],
+          "length": "medium",
+          "word_count": "2559",
+          "created_at": "2026-08-14",
+          "generation_seed": {
+            "scene": "江心岛渡轮码头",
+            "emotion": "迟疑后的笃定",
+            "conflict": "你执意当日归还一本旧书，秦彻认为不值得为此滞留；两人对承诺的尺度不同"
+          },
+          "summary": "为了归还一本借来的书，你和秦彻错过末班船，也重新衡量了什么值得折返。",
+          "path": "content/stories/2026-08-14/秦彻/渡轮最后一班靠岸.md"
+        },
+        {
+          "id": "20260814006",
+          "title": "洗衣房里失踪的纽扣",
+          "fandom": "恋与深空",
+          "character": "qinche",
+          "world": "modern",
+          "relationship_stage": "dating",
+          "characters": [
+            "秦彻"
+          ],
+          "tags": [
+            "现代AU",
+            "洗衣房",
+            "误会",
+            "AI辅助"
+          ],
+          "length": "medium",
+          "word_count": "2026",
+          "created_at": "2026-08-14",
+          "generation_seed": {
+            "scene": "公寓自助洗衣房",
+            "emotion": "窘迫后的坦然",
+            "conflict": "你误取他人衣物并弄丢纽扣，想悄悄补回；秦彻要求先找到衣物主人"
+          },
+          "summary": "拿错外套的傍晚，秦彻没有替你编借口，只陪你把一句道歉说完整。",
+          "path": "content/stories/2026-08-14/秦彻/洗衣房里失踪的纽扣.md"
+        },
+        {
+          "id": "20260814007",
+          "title": "修复室的无声电影",
+          "fandom": "恋与深空",
+          "character": "qinche",
+          "world": "modern",
+          "relationship_stage": "close",
+          "characters": [
+            "秦彻"
+          ],
+          "tags": [
+            "现代AU",
+            "电影修复",
+            "配乐",
+            "AI辅助"
+          ],
+          "length": "medium",
+          "word_count": "2100",
+          "created_at": "2026-08-14",
+          "generation_seed": {
+            "scene": "社区影像修复室",
+            "emotion": "不安后的确认",
+            "conflict": "你受邀为老影像试配乐却担心自己不够资格，秦彻拒绝替你评判好坏"
+          },
+          "summary": "在一段无声影像前，你和秦彻等到你愿意按下自己的录音键。",
+          "path": "content/stories/2026-08-14/秦彻/修复室的无声电影.md"
+        },
+        {
+          "id": "20260814008",
+          "title": "陶土还没有定形",
+          "fandom": "恋与深空",
+          "character": "qinche",
+          "world": "modern",
+          "relationship_stage": "dating",
+          "characters": [
+            "秦彻"
+          ],
+          "tags": [
+            "现代AU",
+            "陶艺课",
+            "失败",
+            "AI辅助"
+          ],
+          "length": "medium",
+          "word_count": "2032",
+          "created_at": "2026-08-14",
+          "generation_seed": {
+            "scene": "周末陶艺教室",
+            "emotion": "懊恼后的松弛",
+            "conflict": "你把拉坯作品弄塌后想立刻丢掉，秦彻不替你挽救，只追问你的选择"
+          },
+          "summary": "陶艺课上的杯子塌下去时，秦彻让你先决定它还要不要成为一个杯子。",
+          "path": "content/stories/2026-08-14/秦彻/陶土还没有定形.md"
+        },
+        {
+          "id": "20260814009",
+          "title": "旧厂房的回声测量",
+          "fandom": "恋与深空",
+          "character": "qinche",
+          "world": "modern",
+          "relationship_stage": "close",
+          "characters": [
+            "秦彻"
+          ],
+          "tags": [
+            "现代AU",
+            "旧厂房",
+            "录音",
+            "AI辅助"
+          ],
+          "length": "medium",
+          "word_count": "2083",
+          "created_at": "2026-08-14",
+          "generation_seed": {
+            "scene": "即将改造的旧厂房开放日",
+            "emotion": "怀念中的迟疑",
+            "conflict": "你想录下外婆曾工作的厂房记忆却临场失声，秦彻拒绝替你转述"
+          },
+          "summary": "改造前的旧厂房里，秦彻陪你等到你愿意用自己的声音讲起家人的故事。",
+          "path": "content/stories/2026-08-14/秦彻/旧厂房的回声测量.md"
+        },
+        {
+          "id": "20260814010",
+          "title": "公交车库的黄色雨衣",
+          "fandom": "恋与深空",
+          "character": "qinche",
+          "world": "modern",
+          "relationship_stage": "close",
+          "characters": [
+            "秦彻"
+          ],
+          "tags": [
+            "现代AU",
+            "公交车库",
+            "归还",
+            "AI辅助"
+          ],
+          "length": "medium",
+          "word_count": "2023",
+          "created_at": "2026-08-14",
+          "generation_seed": {
+            "scene": "公交车库调度室",
+            "emotion": "惶恐后的承担",
+            "conflict": "你误拿司机雨衣并拖延归还，担心责备；秦彻要求先告知调度以免影响出车"
+          },
+          "summary": "拿错雨衣耽误了出车时，你和秦彻一起把错误送回该去的地方。",
+          "path": "content/stories/2026-08-14/秦彻/公交车库的黄色雨衣.md"
+        },
+        {
+          "id": "20260814011",
+          "title": "围栏外的犬哨声",
+          "fandom": "恋与深空",
+          "character": "qinche",
+          "world": "modern",
+          "relationship_stage": "dating",
+          "characters": [
+            "秦彻"
+          ],
+          "tags": [
+            "现代AU",
+            "领养日",
+            "责任",
+            "AI辅助"
+          ],
+          "length": "medium",
+          "word_count": "2024",
+          "created_at": "2026-08-14",
+          "generation_seed": {
+            "scene": "流浪动物领养活动",
+            "emotion": "心软后的清醒",
+            "conflict": "你想当场领养胆小小狗，秦彻提醒长期照护条件与承诺不能被一时情绪取代"
+          },
+          "summary": "领养日的围栏外，你没有急着带走一只狗，而是先学会为长期的陪伴做准备。",
+          "path": "content/stories/2026-08-14/秦彻/围栏外的犬哨声.md"
+        },
+        {
+          "id": "20260814012",
+          "title": "展柜背面的借阅卡",
+          "fandom": "恋与深空",
+          "character": "qinche",
+          "world": "modern",
+          "relationship_stage": "close",
+          "characters": [
+            "秦彻"
+          ],
+          "tags": [
+            "现代AU",
+            "图书馆",
+            "展览",
+            "AI辅助"
+          ],
+          "length": "medium",
+          "word_count": "2009",
+          "created_at": "2026-08-14",
+          "generation_seed": {
+            "scene": "图书馆旧书展览",
+            "emotion": "留恋后的克制",
+            "conflict": "你发现展柜背面的旧借阅卡并想带走留念，秦彻指出公共藏品与私人纪念的边界"
+          },
+          "summary": "撤展前的图书馆里，你没有带走一张旧借阅卡，却留下了属于自己的说明。",
+          "path": "content/stories/2026-08-14/秦彻/展柜背面的借阅卡.md"
+        },
+        {
+          "id": "20260814013",
+          "title": "楼顶天线收不到的频率",
+          "fandom": "恋与深空",
+          "character": "qinche",
+          "world": "modern",
+          "relationship_stage": "close",
+          "characters": [
+            "秦彻"
+          ],
+          "tags": [
+            "现代AU",
+            "社区电台",
+            "边界",
+            "AI辅助"
+          ],
+          "length": "medium",
+          "word_count": "2000",
+          "created_at": "2026-08-14",
+          "generation_seed": {
+            "scene": "楼顶社区电台天线",
+            "emotion": "受伤后的坚定",
+            "conflict": "你在试播时收到攻击性留言，秦彻建议暂停，而你想学习以自己的方式设定公开边界"
+          },
+          "summary": "试播电台收到恶意留言时，你决定不为每一种声音打开门。",
+          "path": "content/stories/2026-08-14/秦彻/楼顶天线收不到的频率.md"
+        },
+        {
+          "id": "20260814014",
+          "title": "剧院侧门的散场灯",
+          "fandom": "恋与深空",
+          "character": "qinche",
+          "world": "modern",
+          "relationship_stage": "dating",
+          "characters": [
+            "秦彻"
+          ],
+          "tags": [
+            "现代AU",
+            "剧院",
+            "署名",
+            "AI辅助"
+          ],
+          "length": "medium",
+          "word_count": "2060",
+          "created_at": "2026-08-14",
+          "generation_seed": {
+            "scene": "剧院侧门散场后",
+            "emotion": "委屈后的清醒",
+            "conflict": "你发现节目单遗漏署名，不愿显得斤斤计较；秦彻陪你查版本但不替你争功"
+          },
+          "summary": "谢幕后的节目单少了你的名字，秦彻陪你先确认事实，再自己把名字写回去。",
+          "path": "content/stories/2026-08-14/秦彻/剧院侧门的散场灯.md"
+        },
+        {
+          "id": "20260814015",
+          "title": "检票闸机旁的白纸鹤",
+          "fandom": "恋与深空",
+          "character": "qinche",
+          "world": "modern",
+          "relationship_stage": "close",
+          "characters": [
+            "秦彻"
+          ],
+          "tags": [
+            "现代AU",
+            "演出取消",
+            "纸鹤",
+            "AI辅助"
+          ],
+          "length": "medium",
+          "word_count": "2005",
+          "created_at": "2026-08-14",
+          "generation_seed": {
+            "scene": "剧场检票闸机",
+            "emotion": "失落中的尊重",
+            "conflict": "孩子因演出取消难过并送出纸鹤，你想替他追工作人员补偿；秦彻提醒先听孩子真正想要什么"
+          },
+          "summary": "演出取消的检票口前，你和秦彻没有替孩子挽回一个夜晚，而是让他的纸鹤留在原处。",
+          "path": "content/stories/2026-08-14/秦彻/检票闸机旁的白纸鹤.md"
+        },
+        {
+          "id": "20260814016",
+          "title": "河堤上未寄出的地图",
+          "fandom": "恋与深空",
+          "character": "qinche",
+          "world": "modern",
+          "relationship_stage": "dating",
+          "characters": [
+            "秦彻"
+          ],
+          "tags": [
+            "现代AU",
+            "河堤",
+            "地图",
+            "AI辅助"
+          ],
+          "length": "medium",
+          "word_count": "2176",
+          "created_at": "2026-08-14",
+          "generation_seed": {
+            "scene": "傍晚河堤长椅",
+            "emotion": "戒备后的松动",
+            "conflict": "秦彻意外看到你的私人地图，你担心隐私被要求解释，最终主动标出可分享的路线"
+          },
+          "summary": "一张只画给自己的城市地图被秦彻看见后，你没有交出全部，只分享了一段愿意同行的路。",
+          "path": "content/stories/2026-08-14/秦彻/河堤上未寄出的地图.md"
+        },
+        {
+          "id": "20260814017",
+          "title": "美术馆停电后的颜色",
+          "fandom": "恋与深空",
+          "character": "qinche",
+          "world": "modern",
+          "relationship_stage": "close",
+          "characters": [
+            "秦彻"
+          ],
+          "tags": [
+            "现代AU",
+            "美术馆",
+            "导览",
+            "AI辅助"
+          ],
+          "length": "medium",
+          "word_count": "2114",
+          "created_at": "2026-08-14",
+          "generation_seed": {
+            "scene": "小型美术馆停电",
+            "emotion": "慌乱后的专注",
+            "conflict": "你负责的导览因停电中断，想靠记忆硬讲；秦彻建议先让观众选择是否继续并改变讲述方式"
+          },
+          "summary": "导览被停电打断时，你没有硬撑着讲完，而是在黑暗里找到另一种观看方式。",
+          "path": "content/stories/2026-08-14/秦彻/美术馆停电后的颜色.md"
+        },
+        {
+          "id": "20260814018",
+          "title": "焙烧窑门打开之前",
+          "fandom": "恋与深空",
+          "character": "qinche",
+          "world": "modern",
+          "relationship_stage": "close",
+          "characters": [
+            "秦彻"
+          ],
+          "tags": [
+            "现代AU",
+            "陶艺工坊",
+            "等待",
+            "AI辅助"
+          ],
+          "length": "medium",
+          "word_count": "2066",
+          "created_at": "2026-08-14",
+          "generation_seed": {
+            "scene": "陶艺工坊焙烧窑",
+            "emotion": "焦虑后的安定",
+            "conflict": "你担心作品失败而想违反安全流程提前开窑，秦彻坚持不能碰窑门并陪你等待"
+          },
+          "summary": "作品进窑后，你想提前打开窑门确认结果；秦彻让你在安全线外学会等待。",
+          "path": "content/stories/2026-08-14/秦彻/焙烧窑门打开之前.md"
+        },
+        {
+          "id": "20260814019",
+          "title": "储物柜里的两张车票",
+          "fandom": "恋与深空",
+          "character": "qinche",
+          "world": "modern",
+          "relationship_stage": "dating",
+          "characters": [
+            "秦彻"
+          ],
+          "tags": [
+            "现代AU",
+            "储物柜",
+            "信任",
+            "AI辅助"
+          ],
+          "length": "medium",
+          "word_count": "2250",
+          "created_at": "2026-08-14",
+          "generation_seed": {
+            "scene": "健身房储物柜",
+            "emotion": "不安后的坦白",
+            "conflict": "你在秦彻遗落的包里看到车票并偷看，误以为他要离开；需要面对窥私与信任损伤"
+          },
+          "summary": "两张车票让你误会秦彻要离开，而你选择先归还窥见的隐私，再问出真正的问题。",
+          "path": "content/stories/2026-08-14/秦彻/储物柜里的两张车票.md"
+        },
+        {
+          "id": "20260814020",
+          "title": "海边邮局的退件章",
+          "fandom": "恋与深空",
+          "character": "qinche",
+          "world": "modern",
+          "relationship_stage": "close",
+          "characters": [
+            "秦彻"
+          ],
+          "tags": [
+            "现代AU",
+            "海边邮局",
+            "旧信",
+            "AI辅助"
+          ],
+          "length": "medium",
+          "word_count": "2116",
+          "created_at": "2026-08-14",
+          "generation_seed": {
+            "scene": "海边小邮局",
+            "emotion": "旧伤后的释然",
+            "conflict": "旧信被退回，你想毁掉它；秦彻只帮助确认寄信人信息，不替你决定是否联系或原谅"
+          },
+          "summary": "一封多年未寄达的信退回手中时，你没有让秦彻替你决定原谅，而是写给现在的自己。",
+          "path": "content/stories/2026-08-14/秦彻/海边邮局的退件章.md"
+        },
+        {
+          "id": "20260814021",
+          "title": "天文馆熄灯后的星图",
+          "fandom": "恋与深空",
+          "character": "xiyi",
+          "world": "modern",
+          "relationship_stage": "close",
+          "characters": [
+            "夏以昼"
+          ],
+          "tags": [
+            "现代AU",
+            "天文馆",
+            "星图",
+            "AI辅助"
+          ],
+          "length": "medium",
+          "word_count": "2005",
+          "created_at": "2026-08-14",
+          "generation_seed": {
+            "scene": "闭馆后的天文馆",
+            "emotion": "遗憾中的轻快",
+            "conflict": "你忘记关闭展项导致故障，担心被责备；夏以昼陪你等待重启并讨论看不见是否等于失去"
+          },
+          "summary": "展项熄灯后，你和夏以昼在看不见的穹顶下记住一颗不在星图里的星。",
+          "path": "content/stories/2026-08-14/夏以昼/天文馆熄灯后的星图.md"
+        },
+        {
+          "id": "20260814022",
+          "title": "晨泳池边的空毛巾",
+          "fandom": "恋与深空",
+          "character": "xiyi",
+          "world": "modern",
+          "relationship_stage": "dating",
+          "characters": [
+            "夏以昼"
+          ],
+          "tags": [
+            "现代AU",
+            "晨泳",
+            "谈话",
+            "AI辅助"
+          ],
+          "length": "medium",
+          "word_count": "2152",
+          "created_at": "2026-08-14",
+          "generation_seed": {
+            "scene": "清晨室内泳池",
+            "emotion": "回避后的松动",
+            "conflict": "你因害怕谈及工作变动提前离场，夏以昼不强留，等待你主动开口"
+          },
+          "summary": "你为躲开一场谈话提前离开泳池，夏以昼没有追问，只把一条干毛巾留给你。",
+          "path": "content/stories/2026-08-14/夏以昼/晨泳池边的空毛巾.md"
+        },
+        {
+          "id": "20260814023",
+          "title": "雨刷器划开的旧照片",
+          "fandom": "恋与深空",
+          "character": "xiyi",
+          "world": "modern",
+          "relationship_stage": "dating",
+          "characters": [
+            "夏以昼"
+          ],
+          "tags": [
+            "现代AU",
+            "雨天驾车",
+            "旧照片",
+            "AI辅助"
+          ],
+          "length": "medium",
+          "word_count": "2071",
+          "created_at": "2026-08-14",
+          "generation_seed": {
+            "scene": "雨天车内",
+            "emotion": "猜测后的坦诚",
+            "conflict": "你发现旧照片并误判夏以昼的沉默；他允许询问但不接受以窥探取代沟通"
+          },
+          "summary": "车里的旧照片让你误会夏以昼的沉默，最后你学会直接问，而不是替他写答案。",
+          "path": "content/stories/2026-08-14/夏以昼/雨刷器划开的旧照片.md"
+        },
+        {
+          "id": "20260814024",
+          "title": "山路补给站的热水壶",
+          "fandom": "恋与深空",
+          "character": "xiyi",
+          "world": "modern",
+          "relationship_stage": "close",
+          "characters": [
+            "夏以昼"
+          ],
+          "tags": [
+            "现代AU",
+            "山路",
+            "补给站",
+            "AI辅助"
+          ],
+          "length": "medium",
+          "word_count": "2157",
+          "created_at": "2026-08-14",
+          "generation_seed": {
+            "scene": "徒步路线补给站",
+            "emotion": "心急后的周全",
+            "conflict": "你想把自己的热水全给缺水者，夏以昼提醒需先确认情况并维持自身安全"
+          },
+          "summary": "补给不足的山路上，你想把水全给陌生人，夏以昼陪你找到既安全又不失善意的做法。",
+          "path": "content/stories/2026-08-14/夏以昼/山路补给站的热水壶.md"
+        },
+        {
+          "id": "20260814025",
+          "title": "唱片行试音间的门缝",
+          "fandom": "恋与深空",
+          "character": "xiyi",
+          "world": "modern",
+          "relationship_stage": "dating",
+          "characters": [
+            "夏以昼"
+          ],
+          "tags": [
+            "现代AU",
+            "唱片行",
+            "试音间",
+            "AI辅助"
+          ],
+          "length": "medium",
+          "word_count": "2366",
+          "created_at": "2026-08-14",
+          "generation_seed": {
+            "scene": "老唱片行试音间",
+            "emotion": "羞怯后的勇气",
+            "conflict": "你受邀录试唱却害怕唱完，夏以昼不评价技巧，只以节拍陪伴你完成最后一句"
+          },
+          "summary": "你在试音间不敢唱完一首歌，夏以昼没有推门进来，只在门外替你守住节拍。",
+          "path": "content/stories/2026-08-14/夏以昼/唱片行试音间的门缝.md"
+        },
+        {
+          "id": "20260814026",
+          "title": "风筝线打结的下午",
+          "fandom": "恋与深空",
+          "character": "xiyi",
+          "world": "modern",
+          "relationship_stage": "close",
+          "characters": [
+            "夏以昼"
+          ],
+          "tags": [
+            "现代AU",
+            "风筝",
+            "下午",
+            "AI辅助"
+          ],
+          "length": "medium",
+          "word_count": "2228",
+          "created_at": "2026-08-14",
+          "generation_seed": {
+            "scene": "河边草地放风筝",
+            "emotion": "挫败后的轻松",
+            "conflict": "你坚持让一只风筝飞起，夏以昼帮助拆结却不替你放，最终接受不同的玩法"
+          },
+          "summary": "总是坠落的风筝没有飞上天，但你和夏以昼找到了另一种让它迎风的方式。",
+          "path": "content/stories/2026-08-14/夏以昼/风筝线打结的下午.md"
+        },
+        {
+          "id": "20260814027",
+          "title": "动物医院的候诊号码",
+          "fandom": "恋与深空",
+          "character": "xiyi",
+          "world": "modern",
+          "relationship_stage": "close",
+          "characters": [
+            "夏以昼"
+          ],
+          "tags": [
+            "现代AU",
+            "动物医院",
+            "等待",
+            "AI辅助"
+          ],
+          "length": "medium",
+          "word_count": "2064",
+          "created_at": "2026-08-14",
+          "generation_seed": {
+            "scene": "动物医院候诊室",
+            "emotion": "焦灼后的安定",
+            "conflict": "你担心照看宠物做不好，想擅自做决定；夏以昼陪等待并鼓励你如实联系主人和听从专业人员"
+          },
+          "summary": "替朋友照看宠物的候诊室里，夏以昼陪你等候，却不替你假装懂得所有答案。",
+          "path": "content/stories/2026-08-14/夏以昼/动物医院的候诊号码.md"
+        },
+        {
+          "id": "20260814028",
+          "title": "修车行借来的螺丝刀",
+          "fandom": "恋与深空",
+          "character": "xiyi",
+          "world": "modern",
+          "relationship_stage": "dating",
+          "characters": [
+            "夏以昼"
+          ],
+          "tags": [
+            "现代AU",
+            "修车行",
+            "道歉",
+            "AI辅助"
+          ],
+          "length": "medium",
+          "word_count": "2087",
+          "created_at": "2026-08-14",
+          "generation_seed": {
+            "scene": "街角修车行",
+            "emotion": "羞愧后的坦然",
+            "conflict": "你弄坏车辆部件想自行掩饰，夏以昼主张先说明情况并由专业人员处理"
+          },
+          "summary": "弄坏车上小部件后，你想悄悄修好；夏以昼陪你把“是我弄坏的”先说出来。",
+          "path": "content/stories/2026-08-14/夏以昼/修车行借来的螺丝刀.md"
+        },
+        {
+          "id": "20260814029",
+          "title": "书店夹层的失物招领",
+          "fandom": "恋与深空",
+          "character": "xiyi",
+          "world": "modern",
+          "relationship_stage": "close",
+          "characters": [
+            "夏以昼"
+          ],
+          "tags": [
+            "现代AU",
+            "书店",
+            "失物招领",
+            "AI辅助"
+          ],
+          "length": "medium",
+          "word_count": "2009",
+          "created_at": "2026-08-14",
+          "generation_seed": {
+            "scene": "二手书店夹层",
+            "emotion": "好奇后的克制",
+            "conflict": "你发现夹在旧书中的私人信件并想读完，夏以昼提醒隐私归属，协助以失物招领方式归还"
+          },
+          "summary": "书页里掉出的告白信不属于你，夏以昼让你把好奇放回信封外。",
+          "path": "content/stories/2026-08-14/夏以昼/书店夹层的失物招领.md"
+        },
+        {
+          "id": "20260814030",
+          "title": "潮汐表上的红色铅笔",
+          "fandom": "恋与深空",
+          "character": "xiyi",
+          "world": "modern",
+          "relationship_stage": "close",
+          "characters": [
+            "夏以昼"
+          ],
+          "tags": [
+            "现代AU",
+            "海边志愿",
+            "计划变更",
+            "AI辅助"
+          ],
+          "length": "medium",
+          "word_count": "2113",
+          "created_at": "2026-08-14",
+          "generation_seed": {
+            "scene": "海边志愿清理活动",
+            "emotion": "执着后的松弛",
+            "conflict": "你执着按原计划清理海滩，实际状况变化；夏以昼引导你观察现场并共同调整安排"
+          },
+          "summary": "海边志愿活动临时变更时，你和夏以昼在潮汐表上划掉旧计划，也保留了它曾经有用的注脚。",
+          "path": "content/stories/2026-08-14/夏以昼/潮汐表上的红色铅笔.md"
+        },
+        {
+          "id": "20260814031",
+          "title": "咖啡烘焙课的焦糖味",
+          "fandom": "恋与深空",
+          "character": "xiyi",
+          "world": "modern",
+          "relationship_stage": "dating",
+          "characters": [
+            "夏以昼"
+          ],
+          "tags": [
+            "现代AU",
+            "咖啡课",
+            "失败",
+            "AI辅助"
+          ],
+          "length": "medium",
+          "word_count": "2326",
+          "created_at": "2026-08-14",
+          "generation_seed": {
+            "scene": "咖啡烘焙体验课",
+            "emotion": "失望后的再试",
+            "conflict": "你过度在意失败配方，夏以昼将失败豆留下作闻香样本，鼓励你自行决定是否重试"
+          },
+          "summary": "第一次烘焙失败后，夏以昼没有替你重做，而是把焦糖味留成下一次的起点。",
+          "path": "content/stories/2026-08-14/夏以昼/咖啡烘焙课的焦糖味.md"
+        },
+        {
+          "id": "20260814032",
+          "title": "露营灯照见的纸箱",
+          "fandom": "恋与深空",
+          "character": "xiyi",
+          "world": "modern",
+          "relationship_stage": "close",
+          "characters": [
+            "夏以昼"
+          ],
+          "tags": [
+            "现代AU",
+            "临时救助站",
+            "物资",
+            "AI辅助"
+          ],
+          "length": "medium",
+          "word_count": "2176",
+          "created_at": "2026-08-14",
+          "generation_seed": {
+            "scene": "临时救助站夜间清点",
+            "emotion": "慌乱后的踏实",
+            "conflict": "你发现物资记录不符想独自承担，夏以昼协助逐项复核，发现是记录方式不一致"
+          },
+          "summary": "救助站物资清点出错时，夏以昼陪你重新数一遍，也让你发现错的不是你一个人。",
+          "path": "content/stories/2026-08-14/夏以昼/露营灯照见的纸箱.md"
+        },
+        {
+          "id": "20260814033",
+          "title": "电车终点站的橙皮",
+          "fandom": "恋与深空",
+          "character": "xiyi",
+          "world": "modern",
+          "relationship_stage": "dating",
+          "characters": [
+            "夏以昼"
+          ],
+          "tags": [
+            "现代AU",
+            "电车",
+            "失约",
+            "AI辅助"
+          ],
+          "length": "medium",
+          "word_count": "2029",
+          "created_at": "2026-08-14",
+          "generation_seed": {
+            "scene": "电车终点站",
+            "emotion": "失落后的平静",
+            "conflict": "你被朋友失约后不想回家，夏以昼陪你坐到终点但不替你决定是否原谅"
+          },
+          "summary": "朋友放鸽子的傍晚，夏以昼陪你坐到终点站，却不劝你原谅或忘掉。",
+          "path": "content/stories/2026-08-14/夏以昼/电车终点站的橙皮.md"
+        },
+        {
+          "id": "20260814034",
+          "title": "夜校教室的空座位",
+          "fandom": "恋与深空",
+          "character": "xiyi",
+          "world": "modern",
+          "relationship_stage": "close",
+          "characters": [
+            "夏以昼"
+          ],
+          "tags": [
+            "现代AU",
+            "夜校",
+            "迟到",
+            "AI辅助"
+          ],
+          "length": "medium",
+          "word_count": "2199",
+          "created_at": "2026-08-14",
+          "generation_seed": {
+            "scene": "夜校教室门口",
+            "emotion": "畏缩后的迈步",
+            "conflict": "你因迟到想放弃报名课程，夏以昼留座但不代替签到，支持你亲自推门自我介绍"
+          },
+          "summary": "你害怕迟到后推门进夜校，夏以昼替你留座，却没有替你走进教室。",
+          "path": "content/stories/2026-08-14/夏以昼/夜校教室的空座位.md"
+        },
+        {
+          "id": "20260814035",
+          "title": "花店冰柜旁的降温贴",
+          "fandom": "恋与深空",
+          "character": "xiyi",
+          "world": "modern",
+          "relationship_stage": "dating",
+          "characters": [
+            "夏以昼"
+          ],
+          "tags": [
+            "现代AU",
+            "花店",
+            "休息",
+            "AI辅助"
+          ],
+          "length": "medium",
+          "word_count": "2102",
+          "created_at": "2026-08-14",
+          "generation_seed": {
+            "scene": "花店活动布置",
+            "emotion": "逞强后的被接住",
+            "conflict": "你身体不适仍要完成布置，夏以昼安排替换并要求你明确接受休息"
+          },
+          "summary": "你低烧仍坚持帮花店布置，夏以昼让你接受替换，而不是把逞强当作负责。",
+          "path": "content/stories/2026-08-14/夏以昼/花店冰柜旁的降温贴.md"
+        },
+        {
+          "id": "20260814036",
+          "title": "码头边没有寄出的明信片",
+          "fandom": "恋与深空",
+          "character": "xiyi",
+          "world": "modern",
+          "relationship_stage": "dating",
+          "characters": [
+            "夏以昼"
+          ],
+          "tags": [
+            "现代AU",
+            "码头",
+            "旧友",
+            "AI辅助"
+          ],
+          "length": "medium",
+          "word_count": "2003",
+          "created_at": "2026-08-14",
+          "generation_seed": {
+            "scene": "傍晚码头的邮筒",
+            "emotion": "迟疑与释然",
+            "conflict": "你害怕一张明信片打扰旧友，也害怕承认关系已远"
+          },
+          "summary": "你在码头写给旧友的明信片迟迟无法投递，夏以昼陪你把迟来的话安放成自己的决定。",
+          "path": "content/stories/2026-08-14/夏以昼/码头边没有寄出的明信片.md"
+        },
+        {
+          "id": "20260814037",
+          "title": "旧校门前的投影幕布",
+          "fandom": "恋与深空",
+          "character": "xiyi",
+          "world": "modern",
+          "relationship_stage": "close",
+          "characters": [
+            "夏以昼"
+          ],
+          "tags": [
+            "现代AU",
+            "放映",
+            "校园",
+            "AI辅助"
+          ],
+          "length": "medium",
+          "word_count": "2103",
+          "created_at": "2026-08-14",
+          "generation_seed": {
+            "scene": "旧校门前的露天放映",
+            "emotion": "窘迫到松开控制",
+            "conflict": "纪录片文件损坏，你担心辜负受访者与观众"
+          },
+          "summary": "校友纪录片放映临时失灵，你在取消与凑合之间犹豫，夏以昼帮你把一场失败改成可被同意的共同讲述。",
+          "path": "content/stories/2026-08-14/夏以昼/旧校门前的投影幕布.md"
+        },
+        {
+          "id": "20260814038",
+          "title": "夜班面包店的最后一炉",
+          "fandom": "恋与深空",
+          "character": "xiyi",
+          "world": "modern",
+          "relationship_stage": "dating",
+          "characters": [
+            "夏以昼"
+          ],
+          "tags": [
+            "现代AU",
+            "面包店",
+            "责任",
+            "AI辅助"
+          ],
+          "length": "medium",
+          "word_count": "2148",
+          "created_at": "2026-08-14",
+          "generation_seed": {
+            "scene": "夜班面包店",
+            "emotion": "慌乱后的承担",
+            "conflict": "预留订单被卖出，你想用新的面包掩盖失误"
+          },
+          "summary": "你误把预留面包卖出，夏以昼陪你重做，却坚持让道歉先于补救。",
+          "path": "content/stories/2026-08-14/夏以昼/夜班面包店的最后一炉.md"
+        },
+        {
+          "id": "20260814039",
+          "title": "修伞摊摊开的黑布",
+          "fandom": "恋与深空",
+          "character": "xiyi",
+          "world": "modern",
+          "relationship_stage": "dating",
+          "characters": [
+            "夏以昼"
+          ],
+          "tags": [
+            "现代AU",
+            "修伞",
+            "关系沟通",
+            "AI辅助"
+          ],
+          "length": "medium",
+          "word_count": "2121",
+          "created_at": "2026-08-14",
+          "generation_seed": {
+            "scene": "雨后修伞摊",
+            "emotion": "回避到坦白",
+            "conflict": "你担心提出需要会让关系变得麻烦，于是一直假装无事"
+          },
+          "summary": "你把不愿谈的关系问题比作坏掉的伞，夏以昼不替你修好答案，只陪你做出送修的选择。",
+          "path": "content/stories/2026-08-14/夏以昼/修伞摊摊开的黑布.md"
+        },
+        {
+          "id": "20260814040",
+          "title": "城市边缘的观鸟笔记",
+          "fandom": "恋与深空",
+          "character": "xiyi",
+          "world": "modern",
+          "relationship_stage": "dating",
+          "characters": [
+            "夏以昼"
+          ],
+          "tags": [
+            "现代AU",
+            "观鸟",
+            "记录",
+            "AI辅助"
+          ],
+          "length": "medium",
+          "word_count": "2124",
+          "created_at": "2026-08-14",
+          "generation_seed": {
+            "scene": "城市边缘湿地步道",
+            "emotion": "失落到重新看见",
+            "conflict": "你把一次观察的价值全押在目标鸟种上，忽略了过程"
+          },
+          "summary": "你为了没见到目标鸟种失望，夏以昼带你重新记录眼前已出现的生命，而不编造一个圆满答案。",
+          "path": "content/stories/2026-08-14/夏以昼/城市边缘的观鸟笔记.md"
+        }
+      ]
+    },
     {
       "date": "2026-08-13",
       "count": 40,
