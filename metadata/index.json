@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-13T04:35:10Z",
+  "generated_at": "2026-08-13T04:37:24Z",
   "dates": [
     {
       "date": "2026-08-13",
@@ -532,24 +532,24 @@
           "fandom": "恋与深空",
           "character": "qinche",
           "world": "modern",
-          "relationship_stage": "first_meet",
+          "relationship_stage": "close",
           "characters": [
-            "秦彻",
-            "你"
+            "秦彻"
           ],
           "tags": [
-            "治愈",
-            "雨夜"
+            "雨天",
+            "采访",
+            "镜头"
           ],
           "length": "medium",
-          "word_count": "2080",
+          "word_count": "2380",
           "created_at": "2026-08-13",
           "generation_seed": {
-            "scene": "雨夜门厅",
-            "emotion": "克制的关心",
-            "conflict": "误会让你沉默"
+            "scene": "雨天街头采访",
+            "emotion": "紧张后的坚定",
+            "conflict": "你不想回答冒犯问题，却担心拒绝会让同伴陷入麻烦"
           },
-          "summary": "在雨夜门厅，秦彻陪你面对误会让你沉默。",
+          "summary": "雨中的临时采访让你决定怎样回应镜头，秦彻只负责把伞稳稳撑在旁边。",
           "path": "content/stories/2026-08-13/秦彻/伞尖滴落的圆点.md"
         },
         {
