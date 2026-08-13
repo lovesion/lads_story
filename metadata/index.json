@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-13T04:23:32Z",
+  "generated_at": "2026-08-13T04:31:04Z",
   "dates": [
     {
       "date": "2026-08-13",
@@ -456,22 +456,22 @@
           "world": "modern",
           "relationship_stage": "close",
           "characters": [
-            "夏以昼",
-            "你"
+            "夏以昼"
           ],
           "tags": [
-            "便利店",
-            "暧昧"
+            "收银台",
+            "尊严",
+            "零钱"
           ],
           "length": "medium",
-          "word_count": "2078",
+          "word_count": "2193",
           "created_at": "2026-08-13",
           "generation_seed": {
-            "scene": "深夜便利店",
-            "emotion": "沉默守护",
-            "conflict": "你不愿说出真实心意"
+            "scene": "社区超市收银台",
+            "emotion": "为难中的体贴",
+            "conflict": "你想替陌生顾客补钱，夏以昼提醒你先给对方保留选择"
           },
-          "summary": "在深夜便利店，夏以昼陪你面对你不愿说出真实心意。",
+          "summary": "一笔差了几元的账单，让你和夏以昼找到不越过他人尊严的帮忙方式。",
           "path": "content/stories/2026-08-13/夏以昼/收银台前的沉默.md"
         },
         {
@@ -479,25 +479,25 @@
           "title": "石板路上的回头",
           "fandom": "恋与深空",
           "character": "qinche",
-          "world": "canon",
-          "relationship_stage": "dating",
+          "world": "modern",
+          "relationship_stage": "close",
           "characters": [
-            "秦彻",
-            "你"
+            "秦彻"
           ],
           "tags": [
-            "雨天",
-            "初遇"
+            "跟踪",
+            "旧街",
+            "报警"
           ],
           "length": "medium",
-          "word_count": "2071",
+          "word_count": "2313",
           "created_at": "2026-08-13",
           "generation_seed": {
-            "scene": "旧街拐角",
-            "emotion": "久别后的温柔",
-            "conflict": "你想独自承担"
+            "scene": "傍晚石板路",
+            "emotion": "紧张后的清醒",
+            "conflict": "你不想惊动秦彻而隐瞒被跟踪的感觉"
           },
-          "summary": "在旧街拐角，秦彻陪你面对你想独自承担。",
+          "summary": "你察觉自己被跟踪却试图独自解决，秦彻陪你确认风险，而不抢走报警的决定。",
           "path": "content/stories/2026-08-13/秦彻/石板路上的回头.md"
         },
         {
