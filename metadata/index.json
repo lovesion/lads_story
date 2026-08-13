@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-13T05:14:04Z",
+  "generated_at": "2026-08-13T05:22:37Z",
   "dates": [
     {
       "date": "2026-08-13",
@@ -817,25 +817,25 @@
           "title": "不要把话留给改天",
           "fandom": "恋与深空",
           "character": "xiyi",
-          "world": "if",
-          "relationship_stage": "married",
+          "world": "modern",
+          "relationship_stage": "close",
           "characters": [
-            "夏以昼",
-            "你"
+            "夏以昼"
           ],
           "tags": [
             "天台",
-            "陪伴"
+            "优惠券",
+            "当下"
           ],
           "length": "medium",
-          "word_count": "2084",
+          "word_count": "2610",
           "created_at": "2026-08-13",
           "generation_seed": {
-            "scene": "天台",
-            "emotion": "带笑的试探",
-            "conflict": "约定被临时打断"
+            "scene": "雨后天台与夜市",
+            "emotion": "犹豫后的轻快",
+            "conflict": "你习惯把期待留给以后，夏以昼提醒你可以先做一个小决定"
           },
-          "summary": "在天台，夏以昼陪你面对约定被临时打断。",
+          "summary": "一张即将过期的优惠券，让你和夏以昼决定把想做的事从“改天”挪到今晚。",
           "path": "content/stories/2026-08-13/夏以昼/不要把话留给改天.md"
         },
         {
