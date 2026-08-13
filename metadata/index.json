@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-13T04:37:24Z",
+  "generated_at": "2026-08-13T04:44:15Z",
   "dates": [
     {
       "date": "2026-08-13",
@@ -557,25 +557,25 @@
           "title": "霓虹在风里晃",
           "fandom": "恋与深空",
           "character": "xiyi",
-          "world": "canon",
+          "world": "modern",
           "relationship_stage": "close",
           "characters": [
-            "夏以昼",
-            "你"
+            "夏以昼"
           ],
           "tags": [
             "天台",
-            "陪伴"
+            "旧城区",
+            "照片"
           ],
           "length": "medium",
-          "word_count": "2071",
+          "word_count": "2308",
           "created_at": "2026-08-13",
           "generation_seed": {
-            "scene": "天台",
-            "emotion": "带笑的试探",
-            "conflict": "旧伤突然发作"
+            "scene": "旧城区天台",
+            "emotion": "怀念中的释然",
+            "conflict": "你想留住即将消失的街景，又害怕照片只会让人停在过去"
           },
-          "summary": "在天台，夏以昼陪你面对旧伤突然发作。",
+          "summary": "旧城区即将改造的夜晚，你和夏以昼拍下最后一张照片，却不把记忆锁成告别。",
           "path": "content/stories/2026-08-13/夏以昼/霓虹在风里晃.md"
         },
         {
@@ -583,25 +583,25 @@
           "title": "返程改到明天",
           "fandom": "恋与深空",
           "character": "qinche",
-          "world": "if",
-          "relationship_stage": "dating",
+          "world": "modern",
+          "relationship_stage": "close",
           "characters": [
-            "秦彻",
-            "你"
+            "秦彻"
           ],
           "tags": [
-            "重逢",
-            "机场"
+            "航班取消",
+            "陌生城市",
+            "计划之外"
           ],
           "length": "medium",
-          "word_count": "2076",
+          "word_count": "2530",
           "created_at": "2026-08-13",
           "generation_seed": {
-            "scene": "返程航站楼",
-            "emotion": "沉默守护",
-            "conflict": "任务改变了返程时间"
+            "scene": "航班取消后的陌生城市",
+            "emotion": "失控后的松弛",
+            "conflict": "你急着按原计划回去，秦彻认为可以先解决今晚"
           },
-          "summary": "在返程航站楼，秦彻陪你面对任务改变了返程时间。",
+          "summary": "返程取消后，你和秦彻在陌生城市过了一夜，把失控的行程变成各自都能呼吸的节奏。",
           "path": "content/stories/2026-08-13/秦彻/返程改到明天.md"
         },
         {
