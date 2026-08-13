@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-13T03:39:04Z",
+  "generated_at": "2026-08-13T03:52:05Z",
   "dates": [
     {
       "date": "2026-08-13",
@@ -45,17 +45,17 @@
           ],
           "tags": [
             "天台",
-            "陪伴"
+            "未送出的礼物"
           ],
           "length": "medium",
-          "word_count": "2072",
+          "word_count": "2291",
           "created_at": "2026-08-13",
           "generation_seed": {
-            "scene": "天台",
-            "emotion": "带笑的试探",
-            "conflict": "约定被临时打断"
+            "scene": "医院天台",
+            "emotion": "不动声色的体贴",
+            "conflict": "你无法决定该不该把礼物交给夏以昼"
           },
-          "summary": "在天台，夏以昼陪你面对约定被临时打断。",
+          "summary": "一份迟迟没能送出的礼物，在天台变成了两杯各有配方的热饮。",
           "path": "content/stories/2026-08-13/夏以昼/天台的第二杯热饮.md"
         },
         {
@@ -70,18 +70,18 @@
             "你"
           ],
           "tags": [
-            "重逢",
-            "机场"
+            "机场",
+            "误拿行李"
           ],
           "length": "medium",
-          "word_count": "2073",
+          "word_count": "2119",
           "created_at": "2026-08-13",
           "generation_seed": {
             "scene": "返程航站楼",
-            "emotion": "沉默守护",
-            "conflict": "误会让你沉默"
+            "emotion": "紧张后的笃定",
+            "conflict": "你的行李箱被人误拿，却不愿报警把小事闹大"
           },
-          "summary": "在返程航站楼，秦彻陪你面对误会让你沉默。",
+          "summary": "机场延误后的行李误拿，让你和秦彻不得不在凌晨做一次不越界的共同调查。",
           "path": "content/stories/2026-08-13/秦彻/延误广播响起之后.md"
         },
         {
@@ -97,17 +97,17 @@
           ],
           "tags": [
             "训练",
-            "守护"
+            "自主选择"
           ],
           "length": "medium",
-          "word_count": "2081",
+          "word_count": "2023",
           "created_at": "2026-08-13",
           "generation_seed": {
             "scene": "训练场边",
-            "emotion": "久别后的温柔",
-            "conflict": "旧伤突然发作"
+            "emotion": "克制的担心",
+            "conflict": "你想带伤完成不属于自己的训练记录"
           },
-          "summary": "在训练场边，夏以昼陪你面对旧伤突然发作。",
+          "summary": "训练场只剩最后一盏灯时，夏以昼把是否结束的按钮留给了你自己。",
           "path": "content/stories/2026-08-13/夏以昼/训练场的最后一盏灯.md"
         },
         {
@@ -122,18 +122,18 @@
             "你"
           ],
           "tags": [
-            "日常",
-            "厨房"
+            "厨房",
+            "日常"
           ],
           "length": "medium",
-          "word_count": "2097",
+          "word_count": "2046",
           "created_at": "2026-08-13",
           "generation_seed": {
             "scene": "厨房清晨",
-            "emotion": "熟稔的包容",
-            "conflict": "任务改变了返程时间"
+            "emotion": "笨拙的靠近",
+            "conflict": "你因切伤手指而过度道歉，害怕给别人添麻烦"
           },
-          "summary": "在厨房清晨，秦彻陪你面对任务改变了返程时间。",
+          "summary": "一道小小的刀口，让你第一次没有把失误和道歉捆在一起。",
           "path": "content/stories/2026-08-13/秦彻/切到一半的水果.md"
         },
         {
@@ -148,18 +148,18 @@
             "你"
           ],
           "tags": [
-            "初遇",
-            "夜行"
+            "夜路",
+            "散心"
           ],
           "length": "medium",
-          "word_count": "2078",
+          "word_count": "2009",
           "created_at": "2026-08-13",
           "generation_seed": {
             "scene": "夜行车内",
-            "emotion": "克制的关心",
-            "conflict": "你不愿说出真实心意"
+            "emotion": "被允许沉默的轻松",
+            "conflict": "你因烦心事逃避回家，也不愿解释原因"
           },
-          "summary": "在夜行车内，夏以昼陪你面对你不愿说出真实心意。",
+          "summary": "你关掉导航把车开上陌生夜路，夏以昼没有追问，只用一张歌单陪你找回目的地。",
           "path": "content/stories/2026-08-13/夏以昼/夜路的副驾驶.md"
         },
         {
