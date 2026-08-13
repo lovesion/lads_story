@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-13T05:22:37Z",
+  "generated_at": "2026-08-13T05:29:19Z",
   "dates": [
     {
       "date": "2026-08-13",
@@ -844,24 +844,24 @@
           "fandom": "恋与深空",
           "character": "qinche",
           "world": "modern",
-          "relationship_stage": "first_meet",
+          "relationship_stage": "close",
           "characters": [
-            "秦彻",
-            "你"
+            "秦彻"
           ],
           "tags": [
+            "机场",
             "重逢",
-            "机场"
+            "等待"
           ],
           "length": "medium",
-          "word_count": "2074",
+          "word_count": "2492",
           "created_at": "2026-08-13",
           "generation_seed": {
-            "scene": "返程航站楼",
-            "emotion": "沉默守护",
-            "conflict": "误会让你沉默"
+            "scene": "机场到达层",
+            "emotion": "愧疚后的坦白",
+            "conflict": "你因工作延误没能接机，秦彻独自抵达却没有提前说明自己的失望"
           },
-          "summary": "在返程航站楼，秦彻陪你面对误会让你沉默。",
+          "summary": "你没能按约去接秦彻，他没有把失望变成责怪，却让你们把等待的落空说清楚。",
           "path": "content/stories/2026-08-13/秦彻/行李箱轮子响了一声.md"
         },
         {
