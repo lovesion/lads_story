@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-13T04:44:15Z",
+  "generated_at": "2026-08-13T04:46:05Z",
   "dates": [
     {
       "date": "2026-08-13",
@@ -610,24 +610,24 @@
           "fandom": "恋与深空",
           "character": "xiyi",
           "world": "modern",
-          "relationship_stage": "married",
+          "relationship_stage": "close",
           "characters": [
-            "夏以昼",
-            "你"
+            "夏以昼"
           ],
           "tags": [
+            "复健",
             "训练",
-            "守护"
+            "比较"
           ],
           "length": "medium",
-          "word_count": "2084",
+          "word_count": "2535",
           "created_at": "2026-08-13",
           "generation_seed": {
-            "scene": "训练场边",
-            "emotion": "久别后的温柔",
-            "conflict": "你不愿说出真实心意"
+            "scene": "复健训练室",
+            "emotion": "挫败后的重整",
+            "conflict": "你因进度落后想加练，夏以昼担心你用比较伤害自己"
           },
-          "summary": "在训练场边，夏以昼陪你面对你不愿说出真实心意。",
+          "summary": "复健训练里，你不再拿自己的进度和别人比较，夏以昼陪你把目标改成能完成的那一步。",
           "path": "content/stories/2026-08-13/夏以昼/汗水还没散尽.md"
         },
         {
