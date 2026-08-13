@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-13T04:52:23Z",
+  "generated_at": "2026-08-13T04:56:50Z",
   "dates": [
     {
       "date": "2026-08-13",
@@ -688,24 +688,24 @@
           "fandom": "恋与深空",
           "character": "qinche",
           "world": "modern",
-          "relationship_stage": "dating",
+          "relationship_stage": "close",
           "characters": [
-            "秦彻",
-            "你"
+            "秦彻"
           ],
           "tags": [
-            "冬日",
-            "治愈"
+            "冬天",
+            "训练",
+            "目标"
           ],
           "length": "medium",
-          "word_count": "2078",
+          "word_count": "2400",
           "created_at": "2026-08-13",
           "generation_seed": {
-            "scene": "雪后阳台",
-            "emotion": "带笑的试探",
-            "conflict": "误会让你沉默"
+            "scene": "雪后户外训练场",
+            "emotion": "迟疑后的自信",
+            "conflict": "秦彻以为你只是陪同训练，你想争取属于自己的机会却一直没说"
           },
-          "summary": "在雪后阳台，秦彻陪你面对误会让你沉默。",
+          "summary": "冬日训练任务外，你第一次清楚说出自己的目标，秦彻没有替你制定路线。",
           "path": "content/stories/2026-08-13/秦彻/呼出的白气很快散了.md"
         },
         {
