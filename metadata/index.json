@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-13T05:52:22Z",
+  "generated_at": "2026-08-13T05:55:36Z",
   "dates": [
     {
       "date": "2026-08-13",
@@ -973,25 +973,25 @@
           "title": "冷柜嗡鸣的夜",
           "fandom": "恋与深空",
           "character": "xiyi",
-          "world": "if",
+          "world": "modern",
           "relationship_stage": "close",
           "characters": [
-            "夏以昼",
-            "你"
+            "夏以昼"
           ],
           "tags": [
             "便利店",
-            "暧昧"
+            "旧友",
+            "原谅"
           ],
           "length": "medium",
-          "word_count": "2076",
+          "word_count": "2710",
           "created_at": "2026-08-13",
           "generation_seed": {
             "scene": "深夜便利店",
-            "emotion": "沉默守护",
-            "conflict": "约定被临时打断"
+            "emotion": "失望后的平静",
+            "conflict": "旧友再次失约，你不知道该愤怒、原谅还是彻底断开"
           },
-          "summary": "在深夜便利店，夏以昼陪你面对约定被临时打断。",
+          "summary": "被旧友放鸽子的深夜里，你不急着原谅，也不让夏以昼替你决定该不该继续这段关系。",
           "path": "content/stories/2026-08-13/夏以昼/冷柜嗡鸣的夜.md"
         },
         {
