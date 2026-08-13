@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-13T04:16:17Z",
+  "generated_at": "2026-08-13T04:23:32Z",
   "dates": [
     {
       "date": "2026-08-13",
@@ -401,25 +401,25 @@
           "title": "导航声调得很低",
           "fandom": "恋与深空",
           "character": "xiyi",
-          "world": "canon",
-          "relationship_stage": "married",
+          "world": "modern",
+          "relationship_stage": "close",
           "characters": [
-            "夏以昼",
-            "你"
+            "夏以昼"
           ],
           "tags": [
-            "初遇",
-            "夜行"
+            "夜车",
+            "分歧",
+            "日出"
           ],
           "length": "medium",
-          "word_count": "2087",
+          "word_count": "2063",
           "created_at": "2026-08-13",
           "generation_seed": {
-            "scene": "夜行车内",
-            "emotion": "克制的关心",
-            "conflict": "旧伤突然发作"
+            "scene": "深夜返程车内",
+            "emotion": "犹豫后的坦白",
+            "conflict": "你想直接回家，夏以昼想绕去海边看日出，却都误会对方不愿迁就"
           },
-          "summary": "在夜行车内，夏以昼陪你面对旧伤突然发作。",
+          "summary": "返程的夜车里，你和夏以昼没有争谁更懂对方，而是重新把目的地说清楚。",
           "path": "content/stories/2026-08-13/夏以昼/导航声调得很低.md"
         },
         {
@@ -427,25 +427,25 @@
           "title": "阳台上那一点白",
           "fandom": "恋与深空",
           "character": "qinche",
-          "world": "if",
-          "relationship_stage": "first_meet",
+          "world": "modern",
+          "relationship_stage": "close",
           "characters": [
-            "秦彻",
-            "你"
+            "秦彻"
           ],
           "tags": [
-            "冬日",
-            "治愈"
+            "阳台",
+            "白花",
+            "误会"
           ],
           "length": "medium",
-          "word_count": "2082",
+          "word_count": "2290",
           "created_at": "2026-08-13",
           "generation_seed": {
-            "scene": "雪后阳台",
-            "emotion": "带笑的试探",
-            "conflict": "任务改变了返程时间"
+            "scene": "傍晚阳台",
+            "emotion": "不安后的释然",
+            "conflict": "你误会秦彻准备离开，却先决定逃避询问"
           },
-          "summary": "在雪后阳台，秦彻陪你面对任务改变了返程时间。",
+          "summary": "阳台上一盆来路不明的白花，逼着你把害怕失去的话说出口。",
           "path": "content/stories/2026-08-13/秦彻/阳台上那一点白.md"
         },
         {
