@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-13T05:37:30Z",
+  "generated_at": "2026-08-13T05:45:25Z",
   "dates": [
     {
       "date": "2026-08-13",
@@ -922,24 +922,24 @@
           "fandom": "恋与深空",
           "character": "xiyi",
           "world": "modern",
-          "relationship_stage": "married",
+          "relationship_stage": "close",
           "characters": [
-            "夏以昼",
-            "你"
+            "夏以昼"
           ],
           "tags": [
-            "初遇",
-            "夜行"
+            "长途车",
+            "失眠",
+            "故事"
           ],
           "length": "medium",
-          "word_count": "2090",
+          "word_count": "2472",
           "created_at": "2026-08-13",
           "generation_seed": {
-            "scene": "夜行车内",
-            "emotion": "克制的关心",
-            "conflict": "你不愿说出真实心意"
+            "scene": "深夜长途大巴",
+            "emotion": "不安中的想象",
+            "conflict": "你因失眠不断预设坏结局，夏以昼用一个未完成故事让你重新选择叙述方式"
           },
-          "summary": "在夜行车内，夏以昼陪你面对你不愿说出真实心意。",
+          "summary": "长途夜车上夏以昼讲了一个没有结尾的故事，你决定亲手写下属于自己的那一页。",
           "path": "content/stories/2026-08-13/夏以昼/车窗外的长夜.md"
         },
         {
