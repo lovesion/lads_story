@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-13T05:29:19Z",
+  "generated_at": "2026-08-13T05:32:53Z",
   "dates": [
     {
       "date": "2026-08-13",
@@ -869,25 +869,25 @@
           "title": "金属气味还在",
           "fandom": "恋与深空",
           "character": "xiyi",
-          "world": "canon",
+          "world": "modern",
           "relationship_stage": "close",
           "characters": [
-            "夏以昼",
-            "你"
+            "夏以昼"
           ],
           "tags": [
-            "训练",
-            "守护"
+            "器材",
+            "责任",
+            "改进"
           ],
           "length": "medium",
-          "word_count": "2069",
+          "word_count": "2691",
           "created_at": "2026-08-13",
           "generation_seed": {
-            "scene": "训练场边",
-            "emotion": "久别后的温柔",
-            "conflict": "旧伤突然发作"
+            "scene": "活动后台器材间",
+            "emotion": "慌乱后的负责",
+            "conflict": "你发现设备故障后想独自承担，夏以昼提醒责任需要被准确地分开"
           },
-          "summary": "在训练场边，夏以昼陪你面对旧伤突然发作。",
+          "summary": "一次器材故障后，你没有替所有人背责，也和夏以昼一起把问题变成可改进的方案。",
           "path": "content/stories/2026-08-13/夏以昼/金属气味还在.md"
         },
         {
