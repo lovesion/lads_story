@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-13T04:46:05Z",
+  "generated_at": "2026-08-13T04:49:41Z",
   "dates": [
     {
       "date": "2026-08-13",
@@ -635,25 +635,25 @@
           "title": "窗玻璃上的薄雾",
           "fandom": "恋与深空",
           "character": "qinche",
-          "world": "canon",
-          "relationship_stage": "first_meet",
+          "world": "modern",
+          "relationship_stage": "close",
           "characters": [
-            "秦彻",
-            "你"
+            "秦彻"
           ],
           "tags": [
-            "日常",
-            "厨房"
+            "旧照片",
+            "嫉妒",
+            "坦白"
           ],
           "length": "medium",
-          "word_count": "2094",
+          "word_count": "2601",
           "created_at": "2026-08-13",
           "generation_seed": {
-            "scene": "厨房清晨",
-            "emotion": "熟稔的包容",
-            "conflict": "你想独自承担"
+            "scene": "冬夜厨房窗边",
+            "emotion": "克制的介意",
+            "conflict": "秦彻看到旧照片吃醋，却不愿把不安变成对你的审问"
           },
-          "summary": "在厨房清晨，秦彻陪你面对你想独自承担。",
+          "summary": "一张旧照片引出的并非盘问，而是秦彻第一次把自己的介意说得足够诚实。",
           "path": "content/stories/2026-08-13/秦彻/窗玻璃上的薄雾.md"
         },
         {
