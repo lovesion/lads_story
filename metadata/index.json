@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-13T05:59:21Z",
+  "generated_at": "2026-08-13T06:02:16Z",
   "dates": [
     {
       "date": "2026-08-13",
@@ -1025,25 +1025,25 @@
           "title": "夜色带回来的花",
           "fandom": "恋与深空",
           "character": "xiyi",
-          "world": "canon",
-          "relationship_stage": "married",
+          "world": "modern",
+          "relationship_stage": "close",
           "characters": [
-            "夏以昼",
-            "你"
+            "夏以昼"
           ],
           "tags": [
-            "任务后",
-            "礼物"
+            "野花",
+            "绘画",
+            "秘密"
           ],
           "length": "medium",
-          "word_count": "2103",
+          "word_count": "2756",
           "created_at": "2026-08-13",
           "generation_seed": {
-            "scene": "任务归来",
-            "emotion": "熟稔的包容",
-            "conflict": "旧伤突然发作"
+            "scene": "夜晚郊外归途",
+            "emotion": "温柔的遗憾",
+            "conflict": "你想带走路边野花却知道它无法存活，夏以昼建议记录却不替你决定如何留下"
           },
-          "summary": "在任务归来，夏以昼陪你面对旧伤突然发作。",
+          "summary": "一束无法带回家的野花，让你和夏以昼把短暂的喜欢画下来，而不是据为己有。",
           "path": "content/stories/2026-08-13/夏以昼/夜色带回来的花.md"
         }
       ]
