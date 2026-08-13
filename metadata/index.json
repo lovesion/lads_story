@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-13T05:45:25Z",
+  "generated_at": "2026-08-13T05:52:22Z",
   "dates": [
     {
       "date": "2026-08-13",
@@ -947,25 +947,25 @@
           "title": "栏杆上的新雪",
           "fandom": "恋与深空",
           "character": "qinche",
-          "world": "canon",
-          "relationship_stage": "first_meet",
+          "world": "modern",
+          "relationship_stage": "close",
           "characters": [
-            "秦彻",
-            "你"
+            "秦彻"
           ],
           "tags": [
-            "冬日",
-            "治愈"
+            "匿名投诉",
+            "公开",
+            "后果"
           ],
           "length": "medium",
-          "word_count": "2079",
+          "word_count": "2223",
           "created_at": "2026-08-13",
           "generation_seed": {
-            "scene": "雪后阳台",
-            "emotion": "带笑的试探",
-            "conflict": "你想独自承担"
+            "scene": "雪后办公楼天台",
+            "emotion": "犹豫中的勇气",
+            "conflict": "你想曝光不公平做法，却害怕公开身份带来的后果"
           },
-          "summary": "在雪后阳台，秦彻陪你面对你想独自承担。",
+          "summary": "匿名投诉被建议公开时，你没有让秦彻替你决定，而是一起衡量说出问题的代价。",
           "path": "content/stories/2026-08-13/秦彻/栏杆上的新雪.md"
         },
         {
