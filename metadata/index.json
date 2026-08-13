@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-13T04:13:42Z",
+  "generated_at": "2026-08-13T04:16:17Z",
   "dates": [
     {
       "date": "2026-08-13",
@@ -376,24 +376,24 @@
           "fandom": "恋与深空",
           "character": "qinche",
           "world": "modern",
-          "relationship_stage": "dating",
+          "relationship_stage": "close",
           "characters": [
-            "秦彻",
-            "你"
+            "秦彻"
           ],
           "tags": [
-            "日常",
-            "厨房"
+            "停电",
+            "失眠",
+            "清晨"
           ],
           "length": "medium",
-          "word_count": "2093",
+          "word_count": "2191",
           "created_at": "2026-08-13",
           "generation_seed": {
-            "scene": "厨房清晨",
-            "emotion": "熟稔的包容",
-            "conflict": "误会让你沉默"
+            "scene": "停电后的清晨厨房",
+            "emotion": "疲惫中的坦白",
+            "conflict": "你因整夜失眠对秦彻冷淡，他误以为自己打扰了你"
           },
-          "summary": "在厨房清晨，秦彻陪你面对误会让你沉默。",
+          "summary": "停电的失眠夜过去后，你和秦彻决定不再把彼此的疲惫误读成冷淡。",
           "path": "content/stories/2026-08-13/秦彻/清晨的水壶先响.md"
         },
         {
