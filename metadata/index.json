@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-13T05:09:26Z",
+  "generated_at": "2026-08-13T05:14:04Z",
   "dates": [
     {
       "date": "2026-08-13",
@@ -791,25 +791,25 @@
           "title": "雨把台阶洗亮",
           "fandom": "恋与深空",
           "character": "qinche",
-          "world": "canon",
-          "relationship_stage": "dating",
+          "world": "modern",
+          "relationship_stage": "close",
           "characters": [
-            "秦彻",
-            "你"
+            "秦彻"
           ],
           "tags": [
-            "治愈",
-            "雨夜"
+            "雨后",
+            "纸船",
+            "孩子"
           ],
           "length": "medium",
-          "word_count": "2079",
+          "word_count": "2394",
           "created_at": "2026-08-13",
           "generation_seed": {
-            "scene": "雨夜门厅",
-            "emotion": "克制的关心",
-            "conflict": "你想独自承担"
+            "scene": "雨后社区台阶",
+            "emotion": "焦急中的温柔",
+            "conflict": "你想立刻带迷路孩子回家，秦彻提醒先确认孩子愿意怎么做"
           },
-          "summary": "在雨夜门厅，秦彻陪你面对你想独自承担。",
+          "summary": "雨后替迷路孩子寻找纸船时，你和秦彻学会让帮助既有行动也有等待。",
           "path": "content/stories/2026-08-13/秦彻/雨把台阶洗亮.md"
         },
         {
