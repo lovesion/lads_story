@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-13T03:16:28Z",
+  "generated_at": "2026-08-13T03:39:04Z",
   "dates": [
     {
       "date": "2026-08-13",
@@ -18,18 +18,18 @@
             "你"
           ],
           "tags": [
-            "治愈",
-            "雨夜"
+            "雨夜",
+            "初遇"
           ],
           "length": "medium",
-          "word_count": "2080",
+          "word_count": "2004",
           "created_at": "2026-08-13",
           "generation_seed": {
             "scene": "雨夜门厅",
-            "emotion": "克制的关心",
-            "conflict": "你想独自承担"
+            "emotion": "被看穿后的迟疑",
+            "conflict": "你不愿承认自己其实害怕独自回家"
           },
-          "summary": "在雨夜门厅，秦彻陪你面对你想独自承担。",
+          "summary": "暴雨困住了回家的路，你和秦彻在门厅等来一场不必逞强的停留。",
           "path": "content/stories/2026-08-13/秦彻/雨停之前别走.md"
         },
         {
