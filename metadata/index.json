@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-13T05:32:53Z",
+  "generated_at": "2026-08-13T05:37:30Z",
   "dates": [
     {
       "date": "2026-08-13",
@@ -895,25 +895,25 @@
           "title": "没切完的水果",
           "fandom": "恋与深空",
           "character": "qinche",
-          "world": "if",
-          "relationship_stage": "dating",
+          "world": "modern",
+          "relationship_stage": "close",
           "characters": [
-            "秦彻",
-            "你"
+            "秦彻"
           ],
           "tags": [
-            "日常",
-            "厨房"
+            "生日",
+            "礼物",
+            "期待"
           ],
           "length": "medium",
-          "word_count": "2096",
+          "word_count": "2595",
           "created_at": "2026-08-13",
           "generation_seed": {
-            "scene": "厨房清晨",
-            "emotion": "熟稔的包容",
-            "conflict": "任务改变了返程时间"
+            "scene": "生日夜厨房",
+            "emotion": "失落后的诚实",
+            "conflict": "你期待特别的生日惊喜，秦彻准备的却是实用礼物，双方都不愿先承认失望"
           },
-          "summary": "在厨房清晨，秦彻陪你面对任务改变了返程时间。",
+          "summary": "生日夜一份过于实用的礼物，引出你和秦彻对期待与失落的坦白。",
           "path": "content/stories/2026-08-13/秦彻/没切完的水果.md"
         },
         {
