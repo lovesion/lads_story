@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-13T05:55:36Z",
+  "generated_at": "2026-08-13T05:59:21Z",
   "dates": [
     {
       "date": "2026-08-13",
@@ -1000,24 +1000,24 @@
           "fandom": "恋与深空",
           "character": "qinche",
           "world": "modern",
-          "relationship_stage": "dating",
+          "relationship_stage": "close",
           "characters": [
-            "秦彻",
-            "你"
+            "秦彻"
           ],
           "tags": [
-            "雨天",
-            "初遇"
+            "停电",
+            "陌生人",
+            "风险判断"
           ],
           "length": "medium",
-          "word_count": "2071",
+          "word_count": "2453",
           "created_at": "2026-08-13",
           "generation_seed": {
-            "scene": "旧街拐角",
-            "emotion": "久别后的温柔",
-            "conflict": "误会让你沉默"
+            "scene": "停电的公寓楼道",
+            "emotion": "警惕中的善意",
+            "conflict": "陌生人求助时你想帮忙，秦彻担心风险却不愿替你拒绝"
           },
-          "summary": "在旧街拐角，秦彻陪你面对误会让你沉默。",
+          "summary": "停电楼道里的求助让你想帮陌生人，秦彻支持你的选择，也陪你把风险判断做完整。",
           "path": "content/stories/2026-08-13/秦彻/拐角处的脚步声.md"
         },
         {
