@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-13T03:52:05Z",
+  "generated_at": "2026-08-13T04:02:19Z",
   "dates": [
     {
       "date": "2026-08-13",
@@ -174,18 +174,18 @@
             "你"
           ],
           "tags": [
-            "冬日",
-            "治愈"
+            "雪后",
+            "合照"
           ],
           "length": "medium",
-          "word_count": "2078",
+          "word_count": "2058",
           "created_at": "2026-08-13",
           "generation_seed": {
             "scene": "雪后阳台",
-            "emotion": "带笑的试探",
-            "conflict": "你想独自承担"
+            "emotion": "不安中的试探",
+            "conflict": "你误会围巾属于别人，也不愿解释自己为何躲开合照"
           },
-          "summary": "在雪后阳台，秦彻陪你面对你想独自承担。",
+          "summary": "一条落在阳台的陌生围巾，牵出你对镜头的回避与一张迟来的合照。",
           "path": "content/stories/2026-08-13/秦彻/围巾落在雪后.md"
         },
         {
@@ -193,25 +193,25 @@
           "title": "薄荷糖没有那么凉",
           "fandom": "恋与深空",
           "character": "xiyi",
-          "world": "if",
-          "relationship_stage": "married",
+          "world": "modern",
+          "relationship_stage": "close",
           "characters": [
-            "夏以昼",
-            "你"
+            "夏以昼"
           ],
           "tags": [
             "便利店",
-            "暧昧"
+            "善意",
+            "薄荷糖"
           ],
           "length": "medium",
-          "word_count": "2088",
+          "word_count": "2189",
           "created_at": "2026-08-13",
           "generation_seed": {
             "scene": "深夜便利店",
-            "emotion": "沉默守护",
-            "conflict": "约定被临时打断"
+            "emotion": "克制的关心",
+            "conflict": "你想替陌生人结账，夏以昼担心好意会让对方难堪"
           },
-          "summary": "在深夜便利店，夏以昼陪你面对约定被临时打断。",
+          "summary": "深夜便利店的一场小小争执，让你和夏以昼重新商量了该怎样帮一个陌生人。",
           "path": "content/stories/2026-08-13/夏以昼/薄荷糖没有那么凉.md"
         },
         {
@@ -220,24 +220,24 @@
           "fandom": "恋与深空",
           "character": "qinche",
           "world": "modern",
-          "relationship_stage": "first_meet",
+          "relationship_stage": "close",
           "characters": [
-            "秦彻",
-            "你"
+            "秦彻"
           ],
           "tags": [
-            "雨天",
-            "初遇"
+            "旧街",
+            "迷路",
+            "选择"
           ],
           "length": "medium",
-          "word_count": "2072",
+          "word_count": "2129",
           "created_at": "2026-08-13",
           "generation_seed": {
-            "scene": "旧街拐角",
-            "emotion": "久别后的温柔",
-            "conflict": "误会让你沉默"
+            "scene": "雨天旧街",
+            "emotion": "不服输的笃定",
+            "conflict": "你和秦彻对回程路线意见相左，谁也不愿先让步"
           },
-          "summary": "在旧街拐角，秦彻陪你面对误会让你沉默。",
+          "summary": "导航失灵的旧街里，你坚持自己找路，秦彻第一次没有替你把答案拿走。",
           "path": "content/stories/2026-08-13/秦彻/旧街只够一把伞.md"
         },
         {
@@ -245,25 +245,25 @@
           "title": "你回来时带了花",
           "fandom": "恋与深空",
           "character": "xiyi",
-          "world": "canon",
+          "world": "modern",
           "relationship_stage": "close",
           "characters": [
-            "夏以昼",
-            "你"
+            "夏以昼"
           ],
           "tags": [
-            "任务后",
-            "礼物"
+            "花店",
+            "误会",
+            "回家"
           ],
           "length": "medium",
-          "word_count": "2091",
+          "word_count": "2096",
           "created_at": "2026-08-13",
           "generation_seed": {
-            "scene": "任务归来",
-            "emotion": "熟稔的包容",
-            "conflict": "旧伤突然发作"
+            "scene": "傍晚花店与公寓门厅",
+            "emotion": "酸涩后的坦白",
+            "conflict": "你误会夏以昼带花是为了别人，却不愿用质问换取答案"
           },
-          "summary": "在任务归来，夏以昼陪你面对旧伤突然发作。",
+          "summary": "一束并非为你准备的花，让你和夏以昼学会把猜测放回它原来的位置。",
           "path": "content/stories/2026-08-13/夏以昼/你回来时带了花.md"
         },
         {
