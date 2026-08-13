@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-13T04:08:14Z",
+  "generated_at": "2026-08-13T04:13:42Z",
   "dates": [
     {
       "date": "2026-08-13",
@@ -323,25 +323,25 @@
           "title": "航站楼没有晚安",
           "fandom": "恋与深空",
           "character": "qinche",
-          "world": "canon",
-          "relationship_stage": "first_meet",
+          "world": "modern",
+          "relationship_stage": "close",
           "characters": [
-            "秦彻",
-            "你"
+            "秦彻"
           ],
           "tags": [
-            "重逢",
-            "机场"
+            "机场",
+            "出发",
+            "告别"
           ],
           "length": "medium",
-          "word_count": "2074",
+          "word_count": "2103",
           "created_at": "2026-08-13",
           "generation_seed": {
-            "scene": "返程航站楼",
-            "emotion": "沉默守护",
-            "conflict": "你想独自承担"
+            "scene": "深夜航站楼",
+            "emotion": "克制的不舍",
+            "conflict": "你瞒着秦彻提前离开的时间，又不愿让他为你改变安排"
           },
-          "summary": "在返程航站楼，秦彻陪你面对你想独自承担。",
+          "summary": "临时提前的航班前，你和秦彻没有把告别说成挽留。",
           "path": "content/stories/2026-08-13/秦彻/航站楼没有晚安.md"
         },
         {
@@ -349,25 +349,25 @@
           "title": "别在灯灭后逞强",
           "fandom": "恋与深空",
           "character": "xiyi",
-          "world": "if",
+          "world": "modern",
           "relationship_stage": "close",
           "characters": [
-            "夏以昼",
-            "你"
+            "夏以昼"
           ],
           "tags": [
-            "训练",
-            "守护"
+            "停电",
+            "旧信",
+            "陪伴"
           ],
           "length": "medium",
-          "word_count": "2070",
+          "word_count": "2242",
           "created_at": "2026-08-13",
           "generation_seed": {
-            "scene": "训练场边",
-            "emotion": "久别后的温柔",
-            "conflict": "约定被临时打断"
+            "scene": "夜晚训练馆",
+            "emotion": "强撑后的松动",
+            "conflict": "你弄丢了重要旧信，却坚持不让夏以昼帮忙"
           },
-          "summary": "在训练场边，夏以昼陪你面对约定被临时打断。",
+          "summary": "训练馆停电后，你在黑暗里找回一封旧信，也重新学会向夏以昼开口。",
           "path": "content/stories/2026-08-13/夏以昼/别在灯灭后逞强.md"
         },
         {
