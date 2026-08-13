@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-13T04:31:04Z",
+  "generated_at": "2026-08-13T04:35:10Z",
   "dates": [
     {
       "date": "2026-08-13",
@@ -505,25 +505,25 @@
           "title": "远路带回的冷意",
           "fandom": "恋与深空",
           "character": "xiyi",
-          "world": "if",
-          "relationship_stage": "married",
+          "world": "modern",
+          "relationship_stage": "close",
           "characters": [
-            "夏以昼",
-            "你"
+            "夏以昼"
           ],
           "tags": [
-            "任务后",
-            "礼物"
+            "归途",
+            "发烧",
+            "照顾"
           ],
           "length": "medium",
-          "word_count": "2104",
+          "word_count": "2321",
           "created_at": "2026-08-13",
           "generation_seed": {
-            "scene": "任务归来",
-            "emotion": "熟稔的包容",
-            "conflict": "约定被临时打断"
+            "scene": "深夜归家",
+            "emotion": "担心里的克制",
+            "conflict": "夏以昼坚持没事，你担心过头又怕越界"
           },
-          "summary": "在任务归来，夏以昼陪你面对约定被临时打断。",
+          "summary": "夏以昼从远路回来带着低烧，你们把照顾从逞强和命令改成了可商量的安排。",
           "path": "content/stories/2026-08-13/夏以昼/远路带回的冷意.md"
         },
         {
